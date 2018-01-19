@@ -28,7 +28,7 @@ Nella sezione revisioni di github potete tenere traccia di tutte le modifiche fa
 
 ![la sezione revisioni](https://raw.githubusercontent.com/HackForItaly/politicamentecorretto/master/images/revisioni_github.png)
 
-![il dettaglio delle modifiche effettuate](https://raw.githubusercontent.com/HackForItaly/politicamentecorretto/master/images/revisioni2.png)
+![il dettaglio delle modifiche effettuate](https://raw.githubusercontent.com/HackForItaly/politicamentecorretto/master/images/revisioni_2.png)
 
 E sarà possibile referenziare ogni revisione del programma con un link specifico.
 Ad esempio [questo](https://gist.github.com/iltempe/4723875ae73859a49109bd2975c87bee/119b2bb62303ed4b61b35e55073b9e06dfc1f064) per una revisione e [questo link](https://gist.github.com/iltempe/4723875ae73859a49109bd2975c87bee/ee5b17d7a5497d9d2750f04a0be51a7033f14da3) per indicarne un'altra.
