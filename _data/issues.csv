@@ -6,7 +6,7 @@ urlfonte: 'http://www.lastampa.it/2018/01/19/italia/politica/berlusconi-via-le-t
 dichiarazione: 'Berlusconi: “Via le tasse su casa, auto e successioni”'
 id: '24269667'
 </yamldata></pre>",open
-https://github.com/HackForItaly/politicamentecorretto_data/issues/26,289946852,2018-01-19 12:43:12,2018-01-19 11:35:05,Le promesse elettorali di Silvio Berlusconi,,,"[u'2018', u'ACCETTATO', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Silvio Berlusconi"", ""Nome fonte"": ""http://formiche.net/2018/01/19/programma-centrodestra-10-punti/"", ""data"": ""19/01/2018"", ""dichiarazione"": ""Programma elettorale Forza Italia"", ""id"": ""24268565"", ""urlfonte"": ""http://formiche.net/2018/01/19/programma-centrodestra-10-punti/""}","<pre><yamldata>Nome: 'Silvio Berlusconi'
+https://github.com/HackForItaly/politicamentecorretto_data/issues/26,289946852,2018-01-19 13:08:18,2018-01-19 11:35:05,Le promesse elettorali di #SilvioBerlusconi #forzaitalia in 10 punti,,,"[u'2018', u'ACCETTATO', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Silvio Berlusconi"", ""Nome fonte"": ""http://formiche.net/2018/01/19/programma-centrodestra-10-punti/"", ""data"": ""19/01/2018"", ""dichiarazione"": ""Programma elettorale Forza Italia"", ""id"": ""24268565"", ""urlfonte"": ""http://formiche.net/2018/01/19/programma-centrodestra-10-punti/""}","<pre><yamldata>Nome: 'Silvio Berlusconi'
 data: 19/01/2018
 Nome fonte: 'http://formiche.net/2018/01/19/programma-centrodestra-10-punti/'
 urlfonte: 'http://formiche.net/2018/01/19/programma-centrodestra-10-punti/'
