@@ -4,10 +4,12 @@ layout: base
 
 {% include header.html type="issue" %}
 
-{% for eventotag in page.tags %}
-{% assign eventofilteredissues = site.data.issuesjson | where_exp: "member","member.issue.labels contains eventotag" %}
+{% capture taganno %}ANNO_{{page.annoevento}}{% endcapture %}
 
-<h2>{{eventotag}}</h2>
+{% assign eventofilteredissues = site.data.issuesjson | where_exp: "member","member.issue.labels contains page.tipoevento" %}
+{% assign eventofilteredissues = eventofilteredissues | where_exp: "member","member.issue.labels contains taganno" %}
+
+<h2>{{page.tipoevento}} {{page.annoevento}}</h2>
 
 {% for tag in page.promessatags %}
 <h3>{{tag}}</h3>
@@ -49,6 +51,5 @@ layout: base
 </div>
 
 
-{% endfor %}
 {% endfor %}
 

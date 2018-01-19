@@ -2,8 +2,8 @@
 title: Elezioni Regionali 2018
 permalink: /regionali_2018/
 layout: evento
-tags:
-  - REGIONALI
+tipoevento: REGIONALI
+annoevento: 2018
 promessatags:
         - Legalità
         - Sanità
