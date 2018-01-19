@@ -1,4 +1,11 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/32,290066748,2018-01-19 22:24:03,2018-01-19 18:30:06,Le promesse elettorali di Luigi #DiMaio #5stelle sulle pensioni,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Pensioni']",,,{},"<pre><yamldata>Nome: 'Luigi Di Maio'
+data: 19/01/2018
+Nome fonte: 'Ansa'
+urlfonte: 'http://www.ansa.it/sito/notizie/topnews/2018/01/19/di-maio-con-noi-pensione-cittadinanza_d773a514-061b-487c-89cb-1caf4a030421.html'
+dichiarazione: '""Nel nostro programma di governo noi proponiamo la pensione di cittadinanza: sono 780 euro di minima a tutti i pensionati e 1.170 euro al mese per una coppia"". Lo ha detto il candidato premier del M5s Luigi Di Maio al programma tv L''Aria che Tira.’
+id: '24288939'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/31,289982931,2018-01-19 14:00:11,2018-01-19 13:55:04,Le promesse elettorali di #MatteoRenzi #Pd su salario minimo,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Lavoro']",,,"{""Nome"": ""Matteo Renzi"", ""Nome fonte"": ""Huffington Post"", ""data"": ""19/01/2018"", ""dichiarazione"": ""\""Al Quotidiano nazionale il segretario del Pd, Matteo Renzi, illustra la sua proposta di \""\""un salario minimo legale tra i 9 e i 10 euro l'ora\""\"".\"""", ""id"": ""24272635"", ""urlfonte"": ""http://www.huffingtonpost.it/2018/01/08/renzi-lancia-la-proposta-del-salario-minimo-legale-tra-9-e-10-euro-lora_a_23326943/""}","<pre><yamldata>Nome: 'Matteo Renzi'
 data: 19/01/2018
 Nome fonte: 'Huffington Post'
