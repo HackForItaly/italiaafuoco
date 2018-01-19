@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/27,289959403,2018-01-19 12:44:59,2018-01-19 12:25:05,"Le promesse elettorali di Silvio #Berlusconi su tasse casa, auto e successioni",,,"[u'2018', u'ACCETTATO', u'FORM', u'Fiscalit\xe0', u'POLITICHE']",,,"{""Nome"": ""Silvio Berlusconi"", ""Nome fonte"": ""La Stampa"", ""data"": ""19/01/2018"", ""dichiarazione"": ""Berlusconi: \u201cVia le tasse su casa, auto e successioni\u201d"", ""id"": ""24269667"", ""urlfonte"": ""http://www.lastampa.it/2018/01/19/italia/politica/berlusconi-via-le-tasse-su-casa-auto-e-successioni-cKo2R0d23Sx6E4lvMBKRqK/pagina.html""}","<pre><yamldata>Nome: 'Silvio Berlusconi'
+data: 19/01/2018
+Nome fonte: 'La Stampa'
+urlfonte: 'http://www.lastampa.it/2018/01/19/italia/politica/berlusconi-via-le-tasse-su-casa-auto-e-successioni-cKo2R0d23Sx6E4lvMBKRqK/pagina.html'
+dichiarazione: 'Berlusconi: “Via le tasse su casa, auto e successioni”'
+id: '24269667'
+</yamldata></pre>",open
+https://github.com/HackForItaly/politicamentecorretto_data/issues/26,289946852,2018-01-19 12:43:12,2018-01-19 11:35:05,Le promesse elettorali di Silvio Berlusconi,,,"[u'2018', u'ACCETTATO', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Silvio Berlusconi"", ""Nome fonte"": ""http://formiche.net/2018/01/19/programma-centrodestra-10-punti/"", ""data"": ""19/01/2018"", ""dichiarazione"": ""Programma elettorale Forza Italia"", ""id"": ""24268565"", ""urlfonte"": ""http://formiche.net/2018/01/19/programma-centrodestra-10-punti/""}","<pre><yamldata>Nome: 'Silvio Berlusconi'
+data: 19/01/2018
+Nome fonte: 'http://formiche.net/2018/01/19/programma-centrodestra-10-punti/'
+urlfonte: 'http://formiche.net/2018/01/19/programma-centrodestra-10-punti/'
+dichiarazione: 'Programma elettorale Forza Italia'
+id: '24268565'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/24,289922105,2018-01-19 10:09:48,2018-01-19 10:05:05,Le promesse elettorali di #SergioPirozzi su famiglia e mamme ,,,"[u'2018', u'ACCETTATO', u'FORM', u'Lazio', u'REGIONALI', u'Welfare']",,,"{""Nome"": ""Sergio Pirozzi"", ""Nome fonte"": ""Il Messaggero"", ""data"": ""17/01/2018"", ""dichiarazione"": ""\u00abLe mamme devono tornare a fare le mamme: da presidente proporr\u00f2 ore di lavoro pagate dalla Regione\u00bb: cos\u00ec il sindaco di Amatrice Sergio Pirozzi, candidato alla presidenza della Regione Lazio nella lista dello Scarpone durante l'evento di presentazione dei comitati a sostegno della sua candidatura all'Atlantico Live a Roma."", ""id"": ""24265093"", ""urlfonte"": ""http://ewww.ilmessaggero.it/primopiano/politica/lazio_pirozzi_renzi_zingaretti_mi_hanno_chiamato-3490258.html""}","<pre><yamldata>Nome: 'Sergio Pirozzi'
 data: 17/01/2018
 Nome fonte: 'Il Messaggero'
