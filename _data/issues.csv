@@ -1,4 +1,11 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/34,290170684,2018-01-20 07:48:58,2018-01-20 06:45:04,Le promesse elettorali di #EmmaBonino #+europa su immigrazione e criminalità: legalizzare clandestini che lavorano,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Immigrazione', u'Legalit\xe0', u'POLITICHE']",,,"{""Nome"": ""Emma Bonino"", ""Nome fonte"": ""Tagada La7"", ""data"": ""20/01/2018"", ""dichiarazione"": ""Immigrati spesso costretti a lavorare in nero o essere manovali della criminalit\u00e0. Noi non proponiamo sanatoria indiscriminata ma il contrario: legalizzare chi lavora. Lo ha fatto nel 2002 un governo di destra."", ""id"": ""24297112"", ""urlfonte"": ""https://twitter.com/Piu_Europa/status/954350865464348672?ref_src=twcamp%5Ecopy%7Ctwsrc%5Eandroid%7Ctwgr%5Ecopy%7Ctwcon%5E7090%7Ctwterm%5E0""}","<pre><yamldata>Nome: 'Emma Bonino'
+data: 20/01/2018
+Nome fonte: 'Tagada La7'
+urlfonte: 'https://twitter.com/Piu_Europa/status/954350865464348672?ref_src=twcamp%5Ecopy%7Ctwsrc%5Eandroid%7Ctwgr%5Ecopy%7Ctwcon%5E7090%7Ctwterm%5E0'
+dichiarazione: 'Immigrati spesso costretti a lavorare in nero o essere manovali della criminalità. Noi non proponiamo sanatoria indiscriminata ma il contrario: legalizzare chi lavora. Lo ha fatto nel 2002 un governo di destra.'
+id: '24297112'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/33,290127897,2018-01-19 22:44:31,2018-01-19 22:35:05,Le promesse elettorali di #MatteoSalvini #Lega su banche e risparmiatori,,,"[u'ACCETTATO', u'ANNO_2018', u'Economia', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Matteo Salvini"", ""Nome fonte"": ""Pagine ufficiale Facebook"", ""data"": ""19/01/2018"", ""dichiarazione"": ""Da Presidente del Consiglio mi impegner\u00f2 a rimborsare i MILIONI di risparmiatori TRUFFATI.  Dove troveremo i soldi? Dal 2011 abbiamo REGALATO a Bruxelles 60 MILIARDI di euro per aiutare le banche di tutta Europa, adesso \u00e8 nostro DIRITTO usare quei fondi per salvare le banche italiane."", ""id"": ""24295156"", ""urlfonte"": ""https://www.facebook.com/salviniofficial/videos/10155446567788155/""}","<pre><yamldata>Nome: 'Matteo Salvini'
 data: 19/01/2018
 Nome fonte: 'Pagine ufficiale Facebook'
