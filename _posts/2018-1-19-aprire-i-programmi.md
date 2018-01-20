@@ -14,9 +14,9 @@ E' stato usato questo approccio per visualizzare le differenze della Costituzion
 
 Allo stesso modo si dovrebbe pensare di pubblicare i programmi elettorali in questo formato e su una piattafforma come Github perchè cosi si potrebbero leggere senza particolari difficoltà anche tramite un software (un PDF è molto più complesso da analizzare) e si potrebbero tracciare eventuali revisioni nel tempo. Non è infatti detto che un programma elettorale resti lo stesso negli anni, secondo noi. Il contesto nazionale ed internazionale può cambiare e potrebbe quindi essere necessario allineare il programma a nuove priorità ed esigenze. L'importante sarebbe rendere trasparenti queste modifiche e farle conoscere ai cittadini. Creare il programma in questo formato e archiviarlo su Github potrebbe essere un buon metodo.
 
-I file markdown possono inoltre essere usati in siti web statici (come questo) per farli diventare direttamente dei post facilmente condivisibili via social oppure possono essere resi dei documenti rintracciabili e visionabili su piattaforme come [readthedocs](https://readthedocs.org/).
+I file markdown possono inoltre essere usati in siti web statici (come questo) per farli diventare dei post facilmente condivisibili via social oppure possono essere resi dei documenti rintracciabili e visionabili su piattaforme come [readthedocs](https://readthedocs.org/) nate per consultare documenti online.
 
-Ecco allora una proposta su come potrebbe essere impostato un file markdown di un programma elettorale. Si tratta di un'operazione alquanto semplice, basta creare un file di testo (come un .txt) e dargli estensione .md e scriverci dentro usando il [linguagggio markdown](https://it.wikipedia.org/wiki/Markdown). Ecco un esempio:
+Ecco allora una proposta su come potrebbe essere impostato un file markdown di un programma elettorale. Si tratta di un'operazione alquanto semplice, basta creare sul proprio computer un file di testo (come un .txt) e dargli estensione .md e scriverci dentro usando il [linguagggio markdown](https://it.wikipedia.org/wiki/Markdown) e successivamente archiviarlo in un repository Github oppure creare un file .md direttamente online dentro un repository Github esistente. Ecco un esempio di programma elaborato in questo modo:
 
 <script src="https://gist.github.com/iltempe/4723875ae73859a49109bd2975c87bee.js"></script>
 
