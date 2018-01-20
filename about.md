@@ -21,6 +21,13 @@ Tutti i dati raccolti dalle segnalazioni sono resi disponibili per riuso con lic
 
 L'idea è di [Matteo Tempestini](https://twitter.com/il_tempe), [Matteo Fortini](https://twitter.com/matt_fortini) e [Andrea Borruso](https://twitter.com/aborruso) e nasce a seguito di maturata esperienza di hacking civico, ma il sostegno è di chiunque voglia darlo (privati, associazioni, imprese, istituzioni) purché l'iniziativa non sia strumentalizzata per secondi fini e di questo chi ha ideato il progetto cerca di farsi garante. Se vuoi collaborare indica [con un issue in questo repository](https://github.com/HackForItaly/politicamentecorretto/issues/new) chi sei e perchè vorresti collaborare, ti aspettiamo!
 
+### Credits
+
+Un Grazie a tutti quelli che vorranno collaborare a questo progetto.
+Un Grazie ai progetti che utilizziamo come fonti:
+  - [EveryPolitician](http://everypolitician.org/) che distribuisce dati sui politici con licenza [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/)
+  - [WikiMediaCommons](https://commons.wikimedia.org/wiki/Pagina_principale) e [WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page) che distribuiscono dati sui politici con licenza [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/)
+
 
 ### Tecnologie
 
