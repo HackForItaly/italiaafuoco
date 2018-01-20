@@ -1,10 +1,5 @@
 ---
 layout: base
-googlefonts:
-  - "Bilbo Swash Caps"
-  - "Alfa Slab One"
-  - "Cormorant Garamond:500"
-  - "Quattrocento"
 ---
 
 {% include header.html type="issue" %}
@@ -12,16 +7,9 @@ googlefonts:
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.0.0/dist/leaflet.js"></script>
     <style>
-    #map{ height: 150px }
-
-h1,h2,h3,h4,h5,h6 {
-  font-family: 'Alfa Slab One', sans-serif;
-  font-weight: 100;  
-}
 
 p.dichiarazione {
-        font-family: 'Cormorant Garamond';
-        font-size: 24pt;
+        font-size: 20pt;
 }
 
   </style>
@@ -30,7 +18,10 @@ p.dichiarazione {
 {% capture tags %}
 {% for tag in page.issue.labels %}
 {% if tag != "ACCETTATO" and tag != "POLITICHE" and tag != "FORM" and tag != "REGIONALI" %}
+{% if tag contains "ANNO" %}
+{% else %}
 {{tag}}{% if forloop.last != true %}|{% endif %}
+{% endif %}
 {% endif %}
 {% endfor %}
 {% endcapture %}
