@@ -8,7 +8,7 @@ promessatags:
         - Legalità
         - Sanità
         - Scuola/Università
-        - Ambiente
+        - Ambiente/Territorio
         - Economia
         - Euro
         - Europa
@@ -23,4 +23,5 @@ promessatags:
         - Sud
         - Trasporti
         - Welfare
+        - Arte/cultura
 ---
