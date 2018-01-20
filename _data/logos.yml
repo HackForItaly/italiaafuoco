@@ -1,4 +1,12 @@
-- name: MAPPA GENERALE
-  logo: /img/icone/11-comunicolpiti.png
-  map: true
-  link: mappa
+- name: SEGNALA
+  logo: /img/icone/segnala2-tci.png
+  map: false
+  link: segnala
+- name: "POLITICHE 2018"
+  logo: /img/icone/politiche.png
+  map: false
+  link: politiche_2018
+- name: "REGIONALI 2018"
+  logo: /img/icone/regionali.png
+  map: false
+  link: regionali_2018
