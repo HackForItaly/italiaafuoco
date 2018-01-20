@@ -4,7 +4,6 @@
   Linklicenza: "https://creativecommons.org/licenses/by-sa/3.0/"
   Fonte: "www.unapromessa.it"
   Formato: "JSON"
-  Utilizzo: ""
   Note: ""
 - Nome: "Promesse elettorali"
   Dataset: "https://raw.githubusercontent.com/HackForItaly/politicamentecorretto/master/_data/issues.csv"
@@ -12,5 +11,4 @@
   Linklicenza: "https://creativecommons.org/licenses/by-sa/3.0/"
   Fonte: "www.unapromessa.it"
   Formato: "CSV"
-  Utilizzo: ""
   Note: ""
