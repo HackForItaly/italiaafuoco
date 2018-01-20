@@ -17,4 +17,10 @@ promessatags:
         - Lavoro
         - Pensioni
         - Politica Internazionale
+         Questioni di genere
+        - Ricerca/innovazione
+        - Sicurezza
+        - Sud
+        - Trasporti
+        - Welfare
 ---
