@@ -9,7 +9,6 @@ layout: page
 {% assign eventofilteredissues = site.data.issuesjson | where_exp: "member","member.issue.labels contains page.tipoevento" %}
 {% assign eventofilteredissues = eventofilteredissues | where_exp: "member","member.issue.labels contains taganno" %}
 
-<h2>{{page.tipoevento}} {{page.annoevento}}</h2>
 
 {% for tag in page.promessatags %}
 <h3>{{tag}}</h3>
