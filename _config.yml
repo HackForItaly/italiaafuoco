@@ -22,6 +22,7 @@ description: Un progetto per raccogliere le promesse dei politici italiani
 # List of links in the navigation bar
 navbar-links:
   Segnala: "segnala/"
+  Promesse Elettorali: "promessa/"
   Opendata: "opendata/"
 #  Mappe: "mappe/"
 #  FOIA: "foia/"
