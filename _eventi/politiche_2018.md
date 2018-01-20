@@ -23,4 +23,5 @@ promessatags:
         - Sud
         - Trasporti
         - Welfare
+        - Arte/cultura
 ---
