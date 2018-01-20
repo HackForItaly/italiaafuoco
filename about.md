@@ -17,7 +17,7 @@ Il progetto non vuole in alcun modo sostituirsi a fonti istituzionali, ma fornir
 
 Il progetto, laddove lo si ritenga utile, è usabile da organizzazioni, associazioni, gruppi informali ed anche pubbliche amministrazioni che avessero bisogno di un servizio per informare su quanto sta avvenendo a seguito delle promesse elettorale. I partiti politici stessi possono formalizzare le loro "promesse" purchè si citi sempre la fonte ufficiale della promessa.
 
-Tutti i dati raccolti dalle segnalazioni sono resi disponibili per riuso con licenza [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Tutti i dati raccolti dalle segnalazioni sono resi disponibili per riuso con licenza [CC BY SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
 L'idea è di [Matteo Tempestini](https://twitter.com/il_tempe), [Matteo Fortini](https://twitter.com/matt_fortini) e [Andrea Borruso](https://twitter.com/aborruso) e nasce a seguito di maturata esperienza di hacking civico, ma il sostegno è di chiunque voglia darlo (privati, associazioni, imprese, istituzioni) purché l'iniziativa non sia strumentalizzata per secondi fini e di questo chi ha ideato il progetto cerca di farsi garante. Se vuoi collaborare indica [con un issue in questo repository](https://github.com/HackForItaly/politicamentecorretto/issues/new) chi sei e perchè vorresti collaborare, ti aspettiamo!
 

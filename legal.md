@@ -4,45 +4,39 @@ title: Note Legali
 permalink: /legal/
 ---
 
-Terremoto Centro Italia è un progetto promosso da ActionAid International Italia Onlus (di seguito “ActionAid”) e da Fondazione Realizza il Cambiamento, realizzato da un team di volontari e supportato da staff e volontari di ActionAid. 
+POliticamente Corretto è un progetto promosso da un team di volontari.
 
-Terremoto Centro Italia non costituisce testata giornalistica e non è un prodotto editoriale, non ha carattere periodico ed è aggiornato in base alle scelte totalmente discrezionali dello staff, al fine di condividere informazioni utili e verificate sul terremoto del 24 agosto 2016 in Italia.
+Non costituisce testata giornalistica e non è un prodotto editoriale, non ha carattere periodico ed è aggiornato in base alle scelte totalmente discrezionali dello staff, al fine di condividere informazioni utili e verificate sulle promesse elettorali italiane.
 
 ## Copyright
 
 Fatta eccezione per i materiali inviati dagli utenti, i contenuti del sito – codice di script, grafica, testi, tabelle, immagini, video, e ogni altra informazione disponibile in qualunque forma – sono protetti ai sensi della normativa in materia di diritto d’autore (Legge n. 633/1941 s.m.i.).
 
-Se non diversamente indicato, è garantito il permesso di copiare e distribuire i contenuti pubblicati da Terremoto Centro Italia secondo le condizioni della licenza Creative Commons Attribuzione 3.0 (CC BY) il cui testo è disponibile a [questo indirizzo](https://creativecommons.org/licenses/by/3.0/it/)
+Se non diversamente indicato, è garantito il permesso di copiare e distribuire i contenuti pubblicati secondo le condizioni della licenza Creative Commons Attribuzione 3.0 (CC SA) il cui testo è disponibile a [questo indirizzo](https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## Utilizzo del sito
 
-In nessun caso ActionAid potrà essere ritenuta responsabile dei danni di qualsivoglia natura causati direttamente o indirettamente dall’accesso al sito, dall’incapacità o impossibilità di accedervi o dall’utilizzo delle notizie in esso contenute.
+In nessun caso gli autori potranno essere ritenuti responsabili dei danni di qualsivoglia natura causati direttamente o indirettamente dall’accesso al sito, dall’incapacità o impossibilità di accedervi o dall’utilizzo delle notizie in esso contenute.
 
-ActionAid non ha alcuna responsabilità per quanto riguarda i siti ai quali è possibile accedere tramite i collegamenti posti all’interno del sito Terremoto Centro Italia; in particolare, ActionAid non è responsabile delle informazioni ottenute dagli utenti tramite l’accesso ai siti raggiungibili mediante collegamenti ipertestuali.
+Gli autori non hanno alcuna responsabilità per quanto riguarda i siti ai quali è possibile accedere tramite i collegamenti posti all’interno del sito; in particolare, gli autori non sono responsabili delle informazioni ottenute dagli utenti tramite l’accesso ai siti raggiungibili mediante collegamenti ipertestuali.
 
 La pubblicazione di contenuti e commenti inviati dagli utenti può essere sottoposta a preventiva moderazione e alla valutazione insindacabile dello staff.
 
-L’utente, con l’invio dei contenuti allo staff (attraverso i canali social oppure via mail), concede ad ActionAid la licenza, gratuita, irrevocabile e universale a utilizzare, riprodurre, modificare, pubblicare, commentare, tradurre, distribuire, eseguire, ed esporre tali contenuti singolarmente o come parti di altri lavori in qualsiasi forma, mezzo, veicolo di comunicazione, tecnologia sia che questa sia attualmente conosciuta o sviluppata in futuro, ivi incluso il diritto di sub licenziare tali diritti a qualsiasi soggetto.
+L’utente, con l’invio dei contenuti allo staff (attraverso i canali social oppure via mail), concede agli autori la licenza, gratuita, irrevocabile e universale a utilizzare, riprodurre, modificare, pubblicare, commentare, tradurre, distribuire, eseguire, ed esporre tali contenuti singolarmente o come parti di altri lavori in qualsiasi forma, mezzo, veicolo di comunicazione, tecnologia sia che questa sia attualmente conosciuta o sviluppata in futuro, ivi incluso il diritto di sub licenziare tali diritti a qualsiasi soggetto.
 
 L’utente, inviando qualsivoglia materiale allo staff, garantisce altresì che i contenuti inviati sono di sua titolarità e non ledono i diritti di terzi.
 
-Lo staff di Terremoto Centro Italia si impegna a non pubblicare contenuti e commenti offensivi, commenti che violino le leggi vigenti o contengano messaggi pubblicitari.
+Lo staff si impegna a non pubblicare contenuti e commenti offensivi, commenti che violino le leggi vigenti o contengano messaggi pubblicitari.
 
 Lo staff si impegna altresì a rimuovere con la massima sollecitudine possibile i contenuti ritenuti illeciti a proprio insindacabile giudizio, a seguito di segnalazione degli utenti o, comunque, dichiarati tali con provvedimento dell’Autorità Giudiziaria.
 
-ActionAid si riserva il diritto di modificare i contenuti del sito e delle note legali senza alcun preavviso.
+Lo staff si riserva il diritto di modificare i contenuti del sito e delle note legali senza alcun preavviso.
 
 ## Informativa agli utenti sul trattamento dei dati personali
 
-Ai sensi dell’art. 13 D.Lgs. n. 196/2003 (“Codice in materia di protezione dei dati personali”), informiamo gli Utenti del sito [www.terremotocentroitalia.info](http://www.terremotocentroitalia.info) che il trattamento dei loro dati personali sarà improntato ai principi di correttezza, liceità e trasparenza e di tutela della loro riservatezza e dei loro diritti.
+Ai sensi dell’art. 13 D.Lgs. n. 196/2003 (“Codice in materia di protezione dei dati personali”), informiamo gli Utenti del sito che il trattamento di eventuali loro dati personali sarà improntato ai principi di correttezza, liceità e trasparenza e di tutela della loro riservatezza e dei loro diritti.
 
 ### Tipologia dei dati trattati e finalità del trattamento
-
-I dati personali forniti dagli Utenti o acquisiti attraverso l’uso del sito Terremoto Centro Italia verranno trattati per le finalità di seguito indicate:
-
-- finalità strettamente connesse e/o strumentali alla fruizione dei contenuti resi disponibili sul sito [www.terremotocentroitalia.info](http://www.terremotocentroitalia.info) nonché all’evasione delle richieste formulate, di volta in volta, dagli utenti attraverso il Sito, anche a mezzo e-mail (come le richieste di pubblicazione di immagini e testi);
-
-- finalità connesse all’adempimento degli obblighi previsti dalle norme di legge, dai regolamenti e dalla normativa comunitaria.
 
 Durante la consultazione del Sito potranno essere acquisite automaticamente informazioni utili per migliorare e personalizzare la fruizione del sito da parte degli utenti e garantire la sicurezza del servizio.
 
@@ -70,8 +64,6 @@ La raccolta e il trattamento dei suddetti dati potrà essere svolto direttamente
 
 Nel caso in cui gli utenti si registrino per accedere a specifici servizi o funzionalità (come l’iscrizione al canale Telegram), i dati forniti saranno anch’essi trattati secondo la normativa in vigore.
 
-Tutti i dati sopracitati saranno trattati anche con l’ausilio di strumenti informatici e saranno conservati negli archivi dei titolari del trattamento, ActionAid International Italia Onlus, con sede a Milano in Via Alserio 22 e Fondazione Realizza il Cambiamento, con sede a Milano in Via Alserio 22.
- 
 ### Diritti degli utenti
 
 Gli utenti, in ogni momento potranno esercitare i loro diritti nei confronti del titolare del trattamento ai sensi dell’art. 7 del Decreto Legislativo n. 196 del 30 giugno 2003, che per comodità, riproduciamo.
