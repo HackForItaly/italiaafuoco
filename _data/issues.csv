@@ -1,4 +1,10 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/41,290203283,2018-01-20 16:41:08,2018-01-20 16:16:43,Le promesse elettorali di Silvio #Berlusconi su animali e cure veterinarie,,,"[u'ACCETTATO', u'ANNO_2018', u'POLITICHE']",,,{},"Nome: 'Le promesse elettorali di Silvio Berlusconi su animali e cure veterinarie'
+data: 20/01/2018
+Nome fonte: 'TgCom'
+urlfonte: 'http://www.tgcom24.mediaset.it/politica/speciale-politiche-2018/berlusconi-con-la-brambilla-candidati-animalisti-nelle-liste-di-forza-italia-_3118448-201802a.shtml'
+dichiarazione: '""Diremo stop agli allevamenti per pellicce"" - In Forza Italia ""ci saranno candidati del Movimento Animalista di Michela Vittoria Brambilla, di cui saranno condivise tutte le proposte"". Lo ha detto Silvio Berlusconi promettendo lo ""stop all'allevamento di animali per pelliccia, stop agli animali inscatolati nei circhi, via gli animali dal redditometro e istituzione di un garante per i diritti degli animali""
+id: ",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/40,290201096,2018-01-20 16:36:12,2018-01-20 15:45:05,Le promesse elettorali di #GiorgioGori #PD: realizzazione di un Museo del Design al Pirellone,,,"[u'ACCETTATO', u'Arte e cultura', u'Economia', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Giorgio Gori"", ""Nome fonte"": ""Twitter giorgio_gori"", ""data"": ""20/01/2018"", ""dichiarazione"": ""S\u00ec all\u2019idea di ospitare al Pirellone il Museo del Design che Milano attende, un museo permanente che celebri la grandezza di Milano e della Brianza nella costruzione di oggetti, macchine e arredi: lo realizzeremo nei prossimi 5 anni."", ""id"": ""24306367"", ""urlfonte"": ""https://twitter.com/giorgio_gori/status/954622158919135232""}","<pre><yamldata>Nome: 'Giorgio Gori'
 data: 20/01/2018
 Nome fonte: 'Twitter giorgio_gori'
