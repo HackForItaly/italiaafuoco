@@ -21,7 +21,7 @@ description: Un progetto per raccogliere le promesse dei politici italiani
 # --- Navigation bar options --- #
 # List of links in the navigation bar
 navbar-links:
-  Segnala: "https://enketo.ona.io/x/#pYFo"
+  Segnala: "segnala/"
   Opendata: "opendata/"
 #  Mappe: "mappe/"
 #  FOIA: "foia/"
