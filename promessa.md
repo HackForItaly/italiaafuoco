@@ -5,7 +5,6 @@ tags:
         - Legalità
         - Sanità
         - Scuola/Università
-        - Ambiente
         - Economia
         - Euro
         - Europa
