@@ -20,7 +20,7 @@ Ecco allora una proposta su come potrebbe essere impostato un file markdown di u
 
 <script src="https://gist.github.com/iltempe/4723875ae73859a49109bd2975c87bee.js"></script>
 
-Archiviato su sistemi che rendono il markdown visibile (come Github) viene visualizzato così
+Archiviato su sistemi che rendono il markdown visibile (come Github) il documento viene visualizzato così
 
 <script src="https://gist.github.com/iltempe/f57421a37c452491df0e3072846b7077.js"></script>
 
@@ -30,7 +30,7 @@ Nella sezione revisioni di Github potete tenere traccia di tutte le modifiche fa
 
 ![il dettaglio delle modifiche effettuate](https://raw.githubusercontent.com/HackForItaly/politicamentecorretto/master/images/revisioni_2.png)
 
-E sarà possibile referenziare ogni revisione del programma con un link specifico.
+E sarà possibile referenziare ogni revisione del programma con un link specifico e univoco.
 Ad esempio [questo](https://gist.github.com/iltempe/4723875ae73859a49109bd2975c87bee/119b2bb62303ed4b61b35e55073b9e06dfc1f064) per una revisione e [questo link](https://gist.github.com/iltempe/4723875ae73859a49109bd2975c87bee/ee5b17d7a5497d9d2750f04a0be51a7033f14da3) per indicarne un'altra.
 
 Ci siamo quindi chiesti se effettivamente sia possibile tutto questo, dal momento che esiste una legge che, in nome della "trasparenza", impone pubblicazione dei programmi con un po' di anticipo rispetto alle elezioni stesse. Ci siamo chiesti quanto sforzo si dovrebbe fare per avere questa tecnologia a servizio di partiti ma soprattutto di cittadini. Ci siamo chiesti quanto costerebbe introdurre una regola per richiedere ai partiti il programma in questo formato, con il doppio vantaggio di fare trasparenza e standardizzare i documenti sul sito del governo. E la risposta è molto semplice: volendo farlo il costo sarebbe pressocchè nullo con immenso valore per chi i programmi vuole consultarli, analizzarli, divuglarli.
