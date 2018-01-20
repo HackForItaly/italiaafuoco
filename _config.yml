@@ -41,6 +41,7 @@ navbar-links:
   Blog: "post/"
 #    - Storie: "storie/"
   Utilità:
+    - Programmi elettorali: "programmi/"
     - Link utili: "link_utili/"
     - Opendata: "opendata/"
   Il Progetto:

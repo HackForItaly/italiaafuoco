@@ -4,7 +4,6 @@ title: Programmi
 permalink: /programmi/
 ---
 
-
 In tabella troverete tutti i riferimenti ai programmi elettorali raccolti da questo progetto.
 
 
