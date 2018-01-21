@@ -11,26 +11,25 @@ layout: page
 
 
 {% for tag in page.promessatags %}
-<h3>{{tag}}</h3>
+<div class="row">
+        <div class="col-md-12">
+        <h3>{{tag}}</h3>
 
-<div class="col-md-11 col-md-offset-1">
-        <div class="panel-group">
-                {% assign filteredissues = eventofilteredissues | where_exp: "member","member.issue.labels contains tag" %}
-                {% for member in filteredissues %}
+        {% assign filteredissues = eventofilteredissues | where_exp: "member","member.issue.labels contains tag" %}
+        {% for member in filteredissues %}
 
-                {% capture tags %}
-                {% for label in member.issue.labels %}
-                {% if label != "ACCETTATO" and label != "POLITICHE" and label != "FORM" and label != "REGIONALI" %}
-                {{label}}{% if forloop.last != true %}|{% endif %}
-                {% endif %}
-                {% endfor %}
-                {% endcapture %}
-
+        {% capture tags %}
+        {% for label in member.issue.labels %}
+        {% if label != "ACCETTATO" and label != "POLITICHE" and label != "FORM" and label != "REGIONALI" %}
+        {{label}}{% if forloop.last != true %}|{% endif %}
+        {% endif %}
+        {% endfor %}
+        {% endcapture %}
+        <div class="col-md-4 col-xs-12">
                 <div class="panel panel-default">
-                        <div class="panel panel-heading">
-                                <a href="{{site.url}}/promessa/{{member.number}}" class="list-group-item">
+                        <div class="panel panel-body" style="min-height:120px;max-height:120px;overflow-y:hidden;">
+                                <a href="{{site.url}}/promessa/{{member.number}}">
                                         <h4 class="list-group-item-heading">{{member.title}}</h4>
-                                        <p class="list-group-item-text">{{member.issue.data.descrizione|markdownify}}</p>
                                 </a>
                         </div>
                         <div class="panel panel-footer">
@@ -45,8 +44,9 @@ layout: page
                         </div>
                 </div>
 
-                {% endfor %}
         </div>
+        {% endfor %}
+</div>
 </div>
 
 
