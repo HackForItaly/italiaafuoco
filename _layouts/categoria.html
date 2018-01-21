@@ -6,9 +6,9 @@ layout: page
 
 {% capture taganno %}ANNO_{{page.annoevento}}{% endcapture %}
 
-{% assign eventofilteredissues = site.data.issuesjson | where_exp: "member","member.issue.labels contains page.promessatag" %}
+{% assign eventofilteredissues = site.data.issuesjson | where_exp: "member","member.issue.labels contains page.title" %}
 
-{% for tag in page.promessatag %}
+{% for tag in page.title %}
 <div class="row">
         <div class="col-md-12">
         {% assign filteredissues = eventofilteredissues | where_exp: "member","member.issue.labels contains tag" %}
