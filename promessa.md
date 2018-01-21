@@ -13,6 +13,7 @@ tags:
         - Lavoro
         - Pensioni
         - Politica Internazionale
+        - Varie
 permalink: /promessa/
 ---
 

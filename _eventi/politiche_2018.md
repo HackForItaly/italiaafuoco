@@ -24,4 +24,5 @@ promessatags:
         - Trasporti
         - Welfare
         - Arte/cultura
+        - Varie
 ---
