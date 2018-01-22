@@ -27,11 +27,18 @@ p.dichiarazione {
 {% endcapture %}
 <div class="container" role="main">
         <div class="col-md-2">
-                {% if page.issue.data.wikidata != blank %}
-                {% assign politician=site.data.everypoliticianItaliaPersons | where_exp: "pol","pol.wikidata == page.issue.data.wikidata" %}
+                {% if page.issue.data.unapromessaID != blank %}
+                {% assign politician=site.data.unapromessa | where_exp: "pol","pol.unapromessaID == page.issue.data.unapromessaID" %}
                 {% if politician.size > 0 %}
+                {% assign politician=politician[0] %}
                 <div class="row">
-                        <img src="{{politician[0].immagine}}" class="img-thumbnail img-responsive"></img>
+                        {% if politician.wikipediaIT != blank %}
+                        <a href="{{politician.wikipediaIT}}">
+                        {% endif %}
+                        <img src="{{politician.immagine}}" class="img-thumbnail img-responsive"></img>
+                        {% if politician.wikipediaIT != blank %}
+                        </a>
+                        {% endif %}
                 </div>
                 {% endif %}
                 {% endif %}
