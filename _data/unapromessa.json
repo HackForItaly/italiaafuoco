@@ -5434,9 +5434,57 @@
   {
     "wikidata": "Q50002",
     "unapromessaID": "UQ50002",
-    "twitter": null,
-    "nome": null,
+    "twitter": "emmabonino",
+    "nome": "Emma Bonino",
     "wikipediaIT": "https://it.wikipedia.org/wiki/Emma_Bonino",
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Emma_Bonino_-_World_Economic_Forum_on_Europe_2010.jpg/200px-Emma_Bonino_-_World_Economic_Forum_on_Europe_2010.jpg"
+  },
+  {
+    "wikidata": "Q47563",
+    "unapromessaID": "UQ47563",
+    "twitter": "MatteoRenzi",
+    "nome": "Matteo Renzi",
+    "wikipediaIT": "https://it.wikipedia.org/wiki/Matteo_Renzi",
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Matteo_Renzi_crop_2015.jpeg/200px-Matteo_Renzi_crop_2015.jpeg"
+  },
+  {
+    "wikidata": null,
+    "unapromessaID": "U683",
+    "twitter": "dariovioli",
+    "nome": "Dario Violi",
+    "wikipediaIT": null,
+    "immagine": "http://vocedimantova.it/articoli_files/thumbnails/800/600/9d137444ac1b482433b41816e7cfd17c.jpg"
+  },
+  {
+    "wikidata": "Q649382",
+    "unapromessaID": "UQ649382",
+    "twitter": "avvgbongiorno",
+    "nome": "Giulia Bongiorno",
+    "wikipediaIT": "https://it.wikipedia.org/wiki/Giulia_Bongiorno",
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Giulia_Bongiorno_-_Festival_Economia_2014.JPG/200px-Giulia_Bongiorno_-_Festival_Economia_2014.JPG"
+  },
+  {
+    "wikidata": "Q11860",
+    "unapromessaID": "UQ11860",
+    "twitter": "berlusconi",
+    "nome": "Silvio Berlusconi",
+    "wikipediaIT": "https://it.wikipedia.org/wiki/Silvio_Berlusconi",
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Silvio_Berlusconi_in_2015.jpeg/200px-Silvio_Berlusconi_in_2015.jpeg"
+  },
+  {
+    "wikidata": "Q3765505",
+    "unapromessaID": "UQ3765505",
+    "twitter": "giorgio_gori",
+    "nome": "Giorgio Gori",
+    "wikipediaIT": "https://it.wikipedia.org/wiki/Giorgio_Gori",
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Giorgio_gori.jpg/200px-Giorgio_gori.jpg"
+  },
+  {
+    "wikidata": null,
+    "unapromessaID": "U687",
+    "twitter": "sergio_pirozzi",
+    "nome": "Sergio Pirozzi",
+    "wikipediaIT": null,
+    "immagine": "https://www.comune.amatrice.rieti.it/immagini/sindaco_amatrice_pirozzi.png"
   }
 ]
