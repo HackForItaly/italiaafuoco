@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/65,290489428,2018-01-22 14:52:15,2018-01-22 14:45:05,Le promesse elettorali di #ViolaCarofalo #PoterealPopolo su lavoro e pensioni,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Lavoro', u'POLITICHE', u'Pensioni']",,,"{""Nome"": ""Viola Garofalo"", ""Nome fonte"": ""Agenzia Vista"", ""data"": ""22/01/2018"", ""dichiarazione"": ""Abolizione di Jobs Act e legge Fornero."", ""id"": ""24357877"", ""unapromessaID"": """", ""urlfonte"": ""http://www.agenziavista.it/tempo-reale/2018/197030_potere-al-popolo-jobs-act-e-legge-fornero-sono-da-abolire/""}","<pre><yamldata>Nome: 'Viola Garofalo'
+data: 22/01/2018
+Nome fonte: 'Agenzia Vista'
+urlfonte: 'http://www.agenziavista.it/tempo-reale/2018/197030_potere-al-popolo-jobs-act-e-legge-fornero-sono-da-abolire/'
+dichiarazione: 'Abolizione di Jobs Act e legge Fornero.'
+id: '24357877'
+unapromessaID: ''
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/62,290383627,2018-01-22 08:31:17,2018-01-22 08:25:05,"Le promesse elettorali di Luigi #DiMaio #M5S su fisco: eliminare Irap, ridurre Irpef e cuneo fiscale",,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Fiscalit\xe0', u'POLITICHE']",,,"{""Nome"": ""Luigi Di Maio"", ""Nome fonte"": ""Ansa"", ""data"": ""22/01/2018"", ""dichiarazione"": ""\""\""Eliminiamo i finanziamenti a pioggia alle Pmi che vanno sempre agli stessi e aboliamo l'Irap per loro\""\"". Lo afferma Luigi Di Maio presentando il punto sul fisco del programma del M5S. \""\""Riduzione aliquote Irpef per ceto medio, no tax area fino a 10mila, manovra choc per Pmi con la riduzione del cuneo fiscale\""\"", sono altre priorit\u00e0 rimarcate da Di Maio."", ""id"": ""24337246"", ""unapromessaID"": ""UQ13581225"", ""urlfonte"": ""http://www.ansa.it/sito/notizie/politica/2018/01/21/di-maio-via-irap-a-pmi-e-giu-irpef_146a7c89-d8c5-475b-b574-00057e0f7c4a.html""}","<pre><yamldata>Nome: 'Luigi Di Maio'
 data: 22/01/2018
 Nome fonte: 'Ansa'
