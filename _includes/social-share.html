@@ -11,8 +11,8 @@
 
   <!--- Share on Twitter -->
   {% if site.share-links-active.twitter %}
-    <a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}"
-      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+    <a href="https://twitter.com/intent/tweet?source={{ site.url }}{{ page.url }}"
+      class="btn btn-social-icon btn-twitter" target="_blank" title="Condividi su Twitter" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;">
       <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
     </a>
   {% endif %}
@@ -20,10 +20,11 @@
   <!--- Share on Facebook -->
   {% if site.share-links-active.facebook %}
     <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"
-      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
+      class="btn btn-social-icon btn-facebook" title="Condividi su Facebook" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;">
       <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
     </a>
   {% endif %}
+
 
   <!--- Share on Google Plus -->
   {% if site.share-links-active.google %}
