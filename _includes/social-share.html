@@ -20,7 +20,7 @@
   <!--- Share on Facebook -->
   {% if site.share-links-active.facebook %}
     <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"
-      class="btn btn-social-icon btn-facebook" title="Share on Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;">
+      class="btn btn-social-icon btn-facebook" target="_blank" title="Share on Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;">
       <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
     </a>
   {% endif %}
