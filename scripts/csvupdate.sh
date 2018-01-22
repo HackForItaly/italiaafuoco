@@ -6,6 +6,8 @@ git reset --hard HEAD
 git pull
 cd ..
 
+curl -o politicamentecorretto/_data/unapromessa.json http://dev.ondata.it/projs/people/andy/unapromessa/unapromessa.json
+
 python politicamentecorretto/scripts/github2CSV.py politicamentecorretto/_data/issues.csv politicamentecorretto/_data/issuesjson.json politicamentecorretto/_data/issuesgeojson.json
 
 cd politicamentecorretto
