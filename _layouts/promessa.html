@@ -29,39 +29,45 @@ p.dichiarazione {
 {% endfor %}
 {% endcapture %}
 <div class="container" role="main">
-        <div class="col-md-2">
-                {% if page.issue.data.unapromessaID != blank %}
-                {% assign politician=site.data.unapromessa | where_exp: "pol","pol.unapromessaID == page.issue.data.unapromessaID" %}
-                {% if politician.size > 0 %}
-                {% assign politician=politician[0] %}
-                <div class="row">
-                        {% if politician.wikipediaIT != blank %}
-                        <a href="{{politician.wikipediaIT}}">
-                        {% endif %}
-                        <img src="{{politician.immagine}}" class="img-thumbnail img-responsive"></img>
-                        {% if politician.wikipediaIT != blank %}
-                        </a>
-                        {% if politician.idItalia != blank %}
-                       <br> <small>
-                                <a href="http://www.camera.it/leg17/29?tipoAttivita=attivita&tipoVisAtt=&tipoPersona=&idLegislatura=17&shadow_deputato={{politician.idItalia}}" target="_blank" alt="Attività svolte nel corso della XVII legislatura" title="Attività svolte nel corso della XVII legislatura">Attività parlamentari</a>
-                        </small>
-                        {% endif %}
-                        {% endif %}
-                        <div id="twittervalue" style="display: none;">
-                                {% if politician.twitter != blank %}
-                                @{{politician.twitter}}
-                                {% endif %}
+        <div class="row">
+                <div class="panel panel-default">
+                        <div class="panel panel-body">
+                                <div class="col-md-2">
+                                        {% if page.issue.data.unapromessaID != blank %}
+                                        {% assign politician=site.data.unapromessa | where_exp: "pol","pol.unapromessaID == page.issue.data.unapromessaID" %}
+                                        {% if politician.size > 0 %}
+                                        {% assign politician=politician[0] %}
+                                        <div class="list-group list-group-default">
+                                                {% if politician.wikipediaIT != blank %}
+                                                <a class="list-group-item" href="{{politician.wikipediaIT}}">
+                                                        {% endif %}
+                                                        <img src="{{politician.immagine}}" class="img-thumbnail img-responsive"></img>
+                                                        {% if politician.wikipediaIT != blank %}
+                                                </a>
+                                                {% if politician.idItalia != blank %}
+                                                <div class="list-group-item">
+                                                        <small>
+                                                                <a href="http://www.camera.it/leg17/29?tipoAttivita=attivita&tipoVisAtt=&tipoPersona=&idLegislatura=17&shadow_deputato={{politician.idItalia}}" target="_blank" alt="Attività svolte nel corso della XVII legislatura" title="Attività svolte nel corso della XVII legislatura">Attività parlamentari</a>
+                                                        </small>
+                                                </div>
+                                                {% endif %}
+                                                {% endif %}
+                                                <div id="twittervalue" style="display: none;">
+                                                        {% if politician.twitter != blank %}
+                                                        @{{politician.twitter}}
+                                                        {% endif %}
+                                                </div>
+                                        </div>
+                                        {% endif %}
+                                        {% endif %}
+                                </div>
+                                <div class="col-md-10">
+                                        <div class="row"><h2>{{page.issue.data.Nome}} ({{page.issue.data.data}})</h2>
+                                        </div>
+                                        <div class="row"><p class="dichiarazione">{{dichiarazione}}</p></div>
+                                </div>
                         </div>
-                </div>
-                {% endif %}
-                {% endif %}
-        </div>
-        <div class="col-md-10">
-                <div class="row">
-                        <div class="panel panel-default">
-                                <div class="panel panel-heading"><h2>{{page.issue.data.Nome}} ({{page.issue.data.data}})</h2></div>
-                                <div class="panel panel-body"><p class="dichiarazione">{{dichiarazione}}</p></div>
-                                <div class="panel panel-footer">
+                        <div class="panel panel-footer">
                                         <div class="list-group list-group-flush">
                                                 <div class="list-group-item">
                                                         <div class="row">
