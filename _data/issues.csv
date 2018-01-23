@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/74,290913436,2018-01-23 22:18:29,2018-01-23 16:55:05,Le promesse elettorali di Pietro #Grasso #LeU sui vaccini,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Sanit\xe0']",,,"{""Nome"": ""Pietro Grasso"", ""Nome fonte"": ""Profilo ufficiale Twitter"", ""data"": ""23/01/2018"", ""dichiarazione"": ""Con i vaccini si salvano milioni di vite. \u00c8 necessario mantenere l\u2019obbligo, ma dobbiamo far s\u00ec che diventi una scelta volontaria, consapevole e responsabile."", ""id"": ""24416521"", ""unapromessaID"": ""UQ2503364"", ""urlfonte"": ""https://twitter.com/PietroGrasso/status/955732238775345152""}","<pre><yamldata>Nome: 'Pietro Grasso'
+data: 23/01/2018
+Nome fonte: 'Profilo ufficiale Twitter'
+urlfonte: 'https://twitter.com/PietroGrasso/status/955732238775345152'
+dichiarazione: 'Con i vaccini si salvano milioni di vite. È necessario mantenere l’obbligo, ma dobbiamo far sì che diventi una scelta volontaria, consapevole e responsabile.'
+id: '24416521'
+unapromessaID: 'UQ2503364'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/73,290911123,2018-01-23 22:07:27,2018-01-23 16:50:06,"Le promesse elettorali di Laura #Boldrini #LeU su occupazione e imprenditoria femminile, cittadinanza, omofobia",,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Lavoro', u'POLITICHE', u'Questioni di genere', u'Varie']",,,"{""Nome"": ""Laura Boldrini"", ""Nome fonte"": ""Profilo ufficiale Twitter"", ""data"": ""23/01/2018"", ""dichiarazione"": ""Se verr\u00f2 eletta deputata presenter\u00f2 subito queste proposte di legge: piano straordinario per l\u2019occupazione e l\u2019imprenditoria femminile, riforma cittadinanza, possibilit\u00e0 di dare ai figli anche il cognome della madre e legge contro omofobia."", ""id"": ""24416266"", ""unapromessaID"": ""UQ3827737"", ""urlfonte"": ""https://twitter.com/lauraboldrini/status/954049097564131329""}","<pre><yamldata>Nome: 'Laura Boldrini'
 data: 23/01/2018
 Nome fonte: 'Profilo ufficiale Twitter'
