@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/75,291015687,2018-01-23 22:27:08,2018-01-23 22:25:06,Le promesse elettorali di Maurizio Martina,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Lavoro', u'POLITICHE', u'Welfare']",,,"{""Nome"": ""Maurizio Martina"", ""Nome fonte"": ""Democratica"", ""data"": ""23/01/2018"", ""dichiarazione"": ""Salario minimo legale per chi non ha un contratto nazionale e taglio del costo del lavoro stabile per l\u2019intera legislatura, di almeno un punto percentuale all\u2019anno"", ""id"": ""24430177"", ""unapromessaID"": """", ""urlfonte"": ""https://www.democratica.com/focus/martina-assegno-figli-proposte-pd/""}","<pre><yamldata>Nome: 'Maurizio Martina'
+data: 23/01/2018
+Nome fonte: 'Democratica'
+urlfonte: 'https://www.democratica.com/focus/martina-assegno-figli-proposte-pd/'
+dichiarazione: 'Salario minimo legale per chi non ha un contratto nazionale e taglio del costo del lavoro stabile per l’intera legislatura, di almeno un punto percentuale all’anno'
+id: '24430177'
+unapromessaID: ''
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/74,290913436,2018-01-23 22:18:29,2018-01-23 16:55:05,Le promesse elettorali di Pietro #Grasso #LeU sui vaccini,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Sanit\xe0']",,,"{""Nome"": ""Pietro Grasso"", ""Nome fonte"": ""Profilo ufficiale Twitter"", ""data"": ""23/01/2018"", ""dichiarazione"": ""Con i vaccini si salvano milioni di vite. \u00c8 necessario mantenere l\u2019obbligo, ma dobbiamo far s\u00ec che diventi una scelta volontaria, consapevole e responsabile."", ""id"": ""24416521"", ""unapromessaID"": ""UQ2503364"", ""urlfonte"": ""https://twitter.com/PietroGrasso/status/955732238775345152""}","<pre><yamldata>Nome: 'Pietro Grasso'
 data: 23/01/2018
 Nome fonte: 'Profilo ufficiale Twitter'
