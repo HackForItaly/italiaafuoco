@@ -38,6 +38,11 @@ p.dichiarazione {
                         <img src="{{politician.immagine}}" class="img-thumbnail img-responsive"></img>
                         {% if politician.wikipediaIT != blank %}
                         </a>
+                        {% if politician.idItalia != blank %}
+                        <small>
+                                <a href="http://www.camera.it/leg17/29?tipoAttivita=attivita&tipoVisAtt=&tipoPersona=&idLegislatura=17&shadow_deputato={{politician.idItalia}}" target="_blank" alt="Attività svolte nel corso della XVII legislatura">Attività parlamentari</a>
+                        </small>
+                        {% endif %}
                         {% endif %}
                         <div id="twittervalue" style="display: none;">
                                 {% if politician.twitter != blank %}
