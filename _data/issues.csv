@@ -244,11 +244,11 @@ dichiarazione: '"""""" Tre priorità: lavoro, lavoro, lavoro’. Vuol dire poten
 id: '24300234'
 unapromessaID: 'UQ3765505'
 </yamldata></pre>",open
-https://github.com/HackForItaly/politicamentecorretto_data/issues/36,290179193,2018-01-22 14:21:08,2018-01-20 09:35:05,Le promesse elettorali di Attilio #Fontana #Lega su affitto Aler dimezzato per chi ha sempre pagato ,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'REGIONALI', u'Welfare']",,,"{""Nome"": ""Attilio Fontana"", ""Nome fonte"": ""Twitter @FontanaPres"", ""data"": ""20/01/2018"", ""dichiarazione"": ""nei quartieri popolari bisogna dare segnali a chi rispetta le regole: AFFITTO DIMEZZATO Aler PER CHI HA SEMPRE PAGATO"", ""id"": ""24299702"", ""unapromessaID"": ""UQ3629240"", ""urlfonte"": ""https://twitter.com/FontanaPres/status/954303260030132224""}","<pre><yamldata>Nome: 'Attilio Fontana'
+https://github.com/HackForItaly/politicamentecorretto_data/issues/36,290179193,2018-01-23 10:12:17,2018-01-20 09:35:05,Le promesse elettorali di Attilio #Fontana #Lega su affitto Aler dimezzato per chi ha sempre pagato ,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'REGIONALI', u'Welfare']",,,"{""Nome"": ""Attilio Fontana"", ""Nome fonte"": ""Twitter @FontanaPres"", ""data"": ""20/01/2018"", ""dichiarazione"": ""Nei quartieri popolari bisogna dare segnali a chi rispetta le regole: AFFITTO DIMEZZATO Aler PER CHI HA SEMPRE PAGATO."", ""id"": ""24299702"", ""unapromessaID"": ""UQ3629240"", ""urlfonte"": ""https://twitter.com/FontanaPres/status/954303260030132224""}","<pre><yamldata>Nome: 'Attilio Fontana'
 data: 20/01/2018
 Nome fonte: 'Twitter @FontanaPres'
 urlfonte: 'https://twitter.com/FontanaPres/status/954303260030132224'
-dichiarazione: 'nei quartieri popolari bisogna dare segnali a chi rispetta le regole: AFFITTO DIMEZZATO Aler PER CHI HA SEMPRE PAGATO'
+dichiarazione: 'Nei quartieri popolari bisogna dare segnali a chi rispetta le regole: AFFITTO DIMEZZATO Aler PER CHI HA SEMPRE PAGATO.'
 id: '24299702'
 unapromessaID: 'UQ3629240'
 </yamldata></pre>",open
