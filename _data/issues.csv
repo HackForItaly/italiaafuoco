@@ -27,11 +27,11 @@ unapromessaID: 'UQ11860'
 correlate:
  -69
 </yamldata></pre>",open
-https://github.com/HackForItaly/politicamentecorretto_data/issues/67,290658001,2018-01-22 23:49:06,2018-01-22 23:45:05,Le promesse elettorali di Roberta #Lombardi #M5S su gestione rifiuti nel Lazio,,,"[u'ACCETTATO', u'ANNO_2018', u'Ambiente e territorio', u'FORM', u'Lazio', u'REGIONALI']",,,"{""Nome"": ""Roberta Lombardi"", ""Nome fonte"": ""Piazzapulita"", ""data"": ""22/01/2018"", ""dichiarazione"": ""(VIDEO: promessa al minuto 18,50 circa) abbiamo un piano per arrivare nel Lazio entro il 2021 all'85% di raccolta differenziata per i rifiuti."", ""id"": ""24379841"", ""unapromessaID"": ""UQ6508991"", ""urlfonte"": ""https://www.youtube.com/watch?v=oAmEcKN2-AE""}","<pre><yamldata>Nome: 'Roberta Lombardi'
+https://github.com/HackForItaly/politicamentecorretto_data/issues/67,290658001,2018-01-23 13:06:48,2018-01-22 23:45:05,Le promesse elettorali di Roberta #Lombardi #M5S su gestione rifiuti nel Lazio,,,"[u'ACCETTATO', u'ANNO_2018', u'Ambiente e territorio', u'FORM', u'Lazio', u'REGIONALI']",,,"{""Nome"": ""Roberta Lombardi"", ""Nome fonte"": ""Piazzapulita"", ""data"": ""22/01/2018"", ""dichiarazione"": ""(VIDEO: promessa al minuto 18,50 circa) Abbiamo un piano per arrivare nel Lazio entro il 2021 all'85% di raccolta differenziata per i rifiuti."", ""id"": ""24379841"", ""unapromessaID"": ""UQ6508991"", ""urlfonte"": ""https://www.youtube.com/watch?v=oAmEcKN2-AE""}","<pre><yamldata>Nome: 'Roberta Lombardi'
 data: 22/01/2018
 Nome fonte: 'Piazzapulita'
 urlfonte: 'https://www.youtube.com/watch?v=oAmEcKN2-AE'
-dichiarazione: '(VIDEO: promessa al minuto 18,50 circa) abbiamo un piano per arrivare nel Lazio entro il 2021 all''85% di raccolta differenziata per i rifiuti.'
+dichiarazione: '(VIDEO: promessa al minuto 18,50 circa) Abbiamo un piano per arrivare nel Lazio entro il 2021 all''85% di raccolta differenziata per i rifiuti.'
 id: '24379841'
 unapromessaID: 'UQ6508991'
 </yamldata></pre>",open
