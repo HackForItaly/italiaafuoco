@@ -49,31 +49,81 @@ p.dichiarazione {
                                 <div class="panel panel-heading"><h2>{{page.issue.data.Nome}} ({{page.issue.data.data}})</h2></div>
                                 <div class="panel panel-body"><p class="dichiarazione">{{dichiarazione}}</p></div>
                                 <div class="panel panel-footer">
-                                        <div class="row"> <div class="col-md-2">Fonte:</div> <div class="col-md-10"> {{page.issue.data["Nome fonte"]}}</div> </div>
-                                        {% if page.issue.data.urlfonte != blank %}
-                                        <div class="row"> <div class="col-md-2">Link Fonte:</div> <div class="col-md-10"> <a href="{{page.issue.data.urlfonte}}">{{page.issue.data.urlfonte}}</a></div> </div>
-                                        {% endif %}
-                                        <div class="row"> <div class="col-md-2">Creato:</div> <div class="col-md-10"> {{page.issue.created_at | italianDate}} </div> </div>
-                                        <div class="row"> <div class="col-md-2">Aggiornato:</div> <div class="col-md-10"> {{page.issue.updated_at | italianDate}} </div> </div>
-                                        <div class="row"> <div class="col-md-2">Tag:</div> <div class="col-md-10">
-                                                        {% assign tagbtn = tags | split: "|" %}
-                                                        {% for btnraw in tagbtn %}
-                                                        {% assign btn = btnraw | strip %}
-                                                        {% if btn.size > 0 %}
-                                                        {% assign taglink = site.data.tags.tagmap[btn] %}
-                                                        {% if taglink != blank %}
-                                                        <a href="/{{taglink}}" class="btn btn-primary">
-                                                        {{btn}}
-                                                        </a>
-                                                        {% else %}
-                                                        <button class="btn btn-default">
-                                                        {{btn}}
-                                                        </button>
-                                                        {% endif %}
-                                                        {% endif %}
-                                                        {% endfor %}
-                                                </div> </div>
-                                        <div class="row"> <div class="col-md-2">Link:</div> <div class="col-md-10"> <a href="{{page.issue.url}}">{{page.issue.url}}</a></div> </div>
+                                        <div class="list-group list-group-flush">
+                                                <div class="list-group-item">
+                                                        <div class="row">
+                                                                <div class="col-md-2">Fonte:</div> 
+                                                                <div class="col-md-10">{{page.issue.data["Nome fonte"]}}</div> 
+                                                        </div>
+                                                </div>
+                                                {% if page.issue.data.urlfonte != blank %}
+                                                <div class="list-group-item">
+                                                        <div class="row">
+                                                                <div class="col-md-2">Link Fonte:</div>
+                                                                <div class="col-md-10"><a href="{{page.issue.data.urlfonte}}">{{page.issue.data.urlfonte}}</a></div> 
+                                                        </div>
+                                                </div>
+                                                {% endif %}
+                                                <div class="list-group-item">
+                                                        <div class="row">
+                                                                <div class="col-md-2">Creato:</div>
+                                                                <div class="col-md-10">{{page.issue.created_at | italianDate}}</div>
+                                                        </div>
+                                                </div>
+                                                <div class="list-group-item">
+                                                        <div class="row">
+                                                                <div class="col-md-2">Aggiornato:</div>
+                                                                <div class="col-md-10">{{page.issue.updated_at | italianDate}}</div>
+                                                        </div>
+                                                </div>
+                                                <div class="list-group-item">
+                                                        <div class="row">
+                                                                <div class="col-md-2">Argomenti collegati:</div>
+                                                                <div class="col-md-10">
+                                                                        {% assign tagbtn = tags | split: "|" %}
+                                                                        {% for btnraw in tagbtn %}
+                                                                        {% assign btn = btnraw | strip %}
+                                                                        {% if btn.size > 0 %}
+                                                                        {% assign taglink = site.data.tags.tagmap[btn] %}
+                                                                        {% if taglink != blank %}
+                                                                        <a href="/{{taglink}}" class="btn btn-primary">
+                                                                                {{btn}}
+                                                                        </a>
+                                                                        {% else %}
+                                                                        <button class="btn btn-default">
+                                                                                {{btn}}
+                                                                        </button>
+                                                                        {% endif %}
+                                                                        {% endif %}
+                                                                        {% endfor %}
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                                {% if page.issue.data.correlate.size > 0 %}
+                                                <div class="list-group-item">
+                                                        <div class="row">
+                                                                <div class="col-md-2">Promesse collegate:</div> 
+                                                                <div class="col-md-10">
+                                                                        <small>
+                                                                                <div class="list-group list-group-flush">
+                                                                                        {% for corrnum in page.issue.data.correlate %}
+                                                                                        {% assign corrissue = site.data.issuesjson | where_exp: "issue", "issue.number == corrnum" %}
+                                                                                        {% assign corrtitle = corrissue[0].title %}
+                                                                                        <a href="/promessa/{{corrnum}}" class="list-group-item list-group-item-primary" >&#xf0a9; {{corrtitle}}</a>
+                                                                                        {% endfor %}
+                                                                                </div>
+                                                                        </small>
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                                {% endif %}
+                                                <div class="list-group-item">
+                                                        <div class="row">
+                                                                <div class="col-md-2">Link:</div>
+                                                                <div class="col-md-10"><a href="{{page.issue.url}}">{{page.issue.url}}</a></div>
+                                                        </div>
+                                                </div>
+                                        </div>
                                 </div>
                         </div>
                 </div>
