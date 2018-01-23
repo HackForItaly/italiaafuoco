@@ -17,11 +17,14 @@ p.dichiarazione {
 {% assign dichiarazione = page.issue.data.dichiarazione | replace: '""', '"' | replace: "''", "'" %}
 {% capture tags %}
 {% for tag in page.issue.labels %}
-{% if tag != "ACCETTATO" and tag != "POLITICHE" and tag != "FORM" and tag != "REGIONALI" %}
-{% if tag contains "ANNO" %}
-{% else %}
-{{tag}}{% if forloop.last != true %}|{% endif %}
+{% assign ignoretag = 1 %}
+{% for goodtag in site.data.tags.tagmap %}
+{% if tag == goodtag[0] %}
+{% assign ignoretag=0 %}
 {% endif %}
+{% endfor %}
+{% if ignoretag != 1 %} 
+{{tag}}{% if forloop.last != true %}|{% endif %}
 {% endif %}
 {% endfor %}
 {% endcapture %}
