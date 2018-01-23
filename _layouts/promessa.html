@@ -26,6 +26,11 @@ p.dichiarazione {
 {% endfor %}
 {% endcapture %}
 <div class="container" role="main">
+    <div id="twittervalue" style="display: none;">
+                {% if politician.twitter != blank %}
+                @{{politician.twitter}}
+                {% endif %}
+        </div>
         <div class="col-md-2">
                 {% if page.issue.data.unapromessaID != blank %}
                 {% assign politician=site.data.unapromessa | where_exp: "pol","pol.unapromessaID == page.issue.data.unapromessaID" %}
