@@ -1,23 +1,11 @@
 ---
 layout: page
 title: Promesse Elettorali
-tags:
-        - Legalità
-        - Sanità
-        - Scuola/Università
-        - Economia
-        - Euro
-        - Europa
-        - Fiscalità
-        - Immigrazione
-        - Lavoro
-        - Pensioni
-        - Politica Internazionale
-        - Varie
 permalink: /promessa/
 ---
 
-{% for tag in page.tags %}
+{% for tagmap in site.data.tags.tagmap %}
+{% assign tag = tagmap[0] %}
 <div class="row">
 
 <h2>{{tag}}</h2>

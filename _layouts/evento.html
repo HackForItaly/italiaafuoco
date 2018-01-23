@@ -10,7 +10,8 @@ layout: page
 {% assign eventofilteredissues = eventofilteredissues | where_exp: "member","member.issue.labels contains taganno" %}
 
 
-{% for tag in page.promessatags %}
+{% for tagmap in site.data.tags.tagmap %}
+{% assign tag = tagmap[0] %}
 <div class="row">
         <div class="col-md-12">
         <h3>{{tag}}</h3>
