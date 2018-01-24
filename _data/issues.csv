@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/86,291210650,2018-01-24 15:31:29,2018-01-24 13:35:07,Le promesse elettorali di Attilio #Fontana #Lega sull'immigrazione: espulsione di 100mila clandestini,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Immigrazione', u'Lombardia', u'REGIONALI']",,,"{""Nome"": ""Attilio Fontana"", ""Nome fonte"": ""Il Giornale"", ""data"": ""24/01/2018"", ""dichiarazione"": ""Se sar\u00f2 eletto la prima cosa che far\u00f2 \u00e8 espellere i centomila clandestini che ci sono in Lombardia."", ""id"": ""24455992"", ""unapromessaID"": ""UQ3629240"", ""urlfonte"": ""http://www.ilgiornale.it/news/politica/fontana-se-sar-eletto-far-espellere-100mila-clandestini-1485542.html?mobile_detect=false""}","<pre><yamldata>Nome: 'Attilio Fontana'
+data: 24/01/2018
+Nome fonte: 'Il Giornale'
+urlfonte: 'http://www.ilgiornale.it/news/politica/fontana-se-sar-eletto-far-espellere-100mila-clandestini-1485542.html?mobile_detect=false'
+dichiarazione: 'Se sarò eletto la prima cosa che farò è espellere i centomila clandestini che ci sono in Lombardia.'
+id: '24455992'
+unapromessaID: 'UQ3629240'
+</yamldata></pre>",open
+https://github.com/HackForItaly/politicamentecorretto_data/issues/85,291210636,2018-01-24 15:30:13,2018-01-24 13:35:04,Le promesse elettorali di Attilio #Fontana #Lega per la tutela dei prodotti Made in Lombardy,,,"[u'ACCETTATO', u'Economia', u'FORM', u'Lombardia', u'REGIONALI']",,,"{""Nome"": ""Attilio Fontana"", ""Nome fonte"": ""Libero"", ""data"": ""24/01/2018"", ""dichiarazione"": ""\""Uno dei miei primi impegni da governatore sar\u00e0 confrontarmi con il Governo, con i ministri coinvolti per competenza, quello dell\u2019Agricoltura, quello degli Esteri, quello per le Politiche Ue, per attivare un\u2019azione di tutela e difesa dei nostri prodotti, del nostro \u2018made in Lombardy\u2019, per proteggere il lavoro dei nostri produttori e il nostro export\""\"". Lo dichiara Attilio Fontana, candidato presidente del centrodestra per la Regione Lombardia.\"""", ""id"": ""24455991"", ""unapromessaID"": ""UQ3629240"", ""urlfonte"": ""http://www.liberoquotidiano.it/news/politica/13301653/agroalimentare-fontana-azione-speciale-a-tutela-made-in-lombardy.html?refresh_ce""}","<pre><yamldata>Nome: 'Attilio Fontana'
+data: 24/01/2018
+Nome fonte: 'Libero'
+urlfonte: 'http://www.liberoquotidiano.it/news/politica/13301653/agroalimentare-fontana-azione-speciale-a-tutela-made-in-lombardy.html?refresh_ce'
+dichiarazione: '""Uno dei miei primi impegni da governatore sarà confrontarmi con il Governo, con i ministri coinvolti per competenza, quello dell’Agricoltura, quello degli Esteri, quello per le Politiche Ue, per attivare un’azione di tutela e difesa dei nostri prodotti, del nostro ‘made in Lombardy’, per proteggere il lavoro dei nostri produttori e il nostro export"""". Lo dichiara Attilio Fontana, candidato presidente del centrodestra per la Regione Lombardia.""'
+id: '24455991'
+unapromessaID: 'UQ3629240'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/84,291209048,2018-01-24 15:28:55,2018-01-24 13:30:08,Le promesse elettorali di Attilio #Fontana #Lega su riapertura navigabilità Navigli,,,"[u'ACCETTATO', u'ANNO_2018', u'Ambiente e territorio', u'FORM', u'Lombardia', u'REGIONALI']",,,"{""Nome"": ""Attilio Fontana"", ""Nome fonte"": ""Profilo Twitter Fabrizio Cecchetti"", ""data"": ""24/01/2018"", ""dichiarazione"": ""Uno dei punti del programma del candidato presidente Attilio Fontana \u00e8 la riapertura e navigabilit\u00e0 dei Navigli. Un progetto che porter\u00e0 pi\u00f9 turismo, pi\u00f9 lavoro e pi\u00f9 bellezza!"", ""id"": ""24455790"", ""unapromessaID"": ""UQ3629240"", ""urlfonte"": ""https://twitter.com/FabriCecchetti/status/955749307965198336""}","<pre><yamldata>Nome: 'Attilio Fontana'
 data: 24/01/2018
 Nome fonte: 'Profilo Twitter Fabrizio Cecchetti'
