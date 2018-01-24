@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/84,291209048,2018-01-24 15:28:55,2018-01-24 13:30:08,Le promesse elettorali di Attilio #Fontana #Lega su riapertura navigabilità Navigli,,,"[u'ACCETTATO', u'ANNO_2018', u'Ambiente e territorio', u'FORM', u'Lombardia', u'REGIONALI']",,,"{""Nome"": ""Attilio Fontana"", ""Nome fonte"": ""Profilo Twitter Fabrizio Cecchetti"", ""data"": ""24/01/2018"", ""dichiarazione"": ""Uno dei punti del programma del candidato presidente Attilio Fontana \u00e8 la riapertura e navigabilit\u00e0 dei Navigli. Un progetto che porter\u00e0 pi\u00f9 turismo, pi\u00f9 lavoro e pi\u00f9 bellezza!"", ""id"": ""24455790"", ""unapromessaID"": ""UQ3629240"", ""urlfonte"": ""https://twitter.com/FabriCecchetti/status/955749307965198336""}","<pre><yamldata>Nome: 'Attilio Fontana'
+data: 24/01/2018
+Nome fonte: 'Profilo Twitter Fabrizio Cecchetti'
+urlfonte: 'https://twitter.com/FabriCecchetti/status/955749307965198336'
+dichiarazione: 'Uno dei punti del programma del candidato presidente Attilio Fontana è la riapertura e navigabilità dei Navigli. Un progetto che porterà più turismo, più lavoro e più bellezza!'
+id: '24455790'
+unapromessaID: 'UQ3629240'
+</yamldata></pre>",open
+https://github.com/HackForItaly/politicamentecorretto_data/issues/83,291209035,2018-01-24 15:27:04,2018-01-24 13:30:05,Le promesse elettorali di #MichelaMirani #RivoluzioneCristiana su disabilità e non autosufficienza,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Welfare']",,,"{""Nome"": ""Michela Mirani"", ""Nome fonte"": ""Profilo Twitter"", ""data"": ""24/01/2018"", ""dichiarazione"": ""Raddoppio assegno minimo d'invalidit\u00e0, sostegno alla disabilit\u00e0 quindi tra le misure anche integrazione Fondo Non Autosufficienza x assistenza domiciliare ai gravi e incentivi all'inserimento disabili nel mondo del lavoro. Questo il contributo di @rivcristiana al programma di cdx."", ""id"": ""24455680"", ""unapromessaID"": ""U695"", ""urlfonte"": ""https://twitter.com/MichelaMirani/status/954996840197509120""}","<pre><yamldata>Nome: 'Michela Mirani'
+data: 24/01/2018
+Nome fonte: 'Profilo Twitter'
+urlfonte: 'https://twitter.com/MichelaMirani/status/954996840197509120'
+dichiarazione: 'Raddoppio assegno minimo d''invalidità, sostegno alla disabilità quindi tra le misure anche integrazione Fondo Non Autosufficienza x assistenza domiciliare ai gravi e incentivi all''inserimento disabili nel mondo del lavoro. Questo il contributo di @rivcristiana al programma di cdx.'
+id: '24455680'
+unapromessaID: 'U695'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/82,291207455,2018-01-24 15:18:55,2018-01-24 13:25:05,Le promesse elettorali di Mariastella #Gelmini #ForzaItalia per la riduzione del costo del lavoro,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Fiscalit\xe0', u'Lavoro', u'POLITICHE']",,,"{""Nome"": ""Mariastella Gelmini"", ""Nome fonte"": ""Proflo ufficiale Twitter"", ""data"": ""24/01/2018"", ""dichiarazione"": ""Creare lavoro per i giovani \u00e8 tra le priorit\u00e0 del nostro programma. La nostra \u00e8 una proposta concreta che supera la logica dei bonus a pioggia: riduzione del costo del lavoro con decontribuzione totale fino a 6 anni e detassazione dell\u2019apprendistato formativo."", ""id"": ""24455477"", ""unapromessaID"": ""UQ466712"", ""urlfonte"": ""https://twitter.com/msgelmini/status/953281188092932096""}","<pre><yamldata>Nome: 'Mariastella Gelmini'
 data: 24/01/2018
 Nome fonte: 'Proflo ufficiale Twitter'
