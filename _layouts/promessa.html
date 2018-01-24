@@ -23,7 +23,7 @@ p.dichiarazione {
 {% assign ignoretag=0 %}
 {% endif %}
 {% endfor %}
-{% if ignoretag != 1 %} 
+{% if ignoretag != 1 %}
 {{tag}}{% if forloop.last != true %}|{% endif %}
 {% endif %}
 {% endfor %}
@@ -40,6 +40,7 @@ p.dichiarazione {
                                         <div class="list-group list-group-default">
                                                 <a class="list-group-item" href="/politico/{{page.issue.data.unapromessaID | downcase }}">
                                                         <img src="{{politician.immagine}}" class="img-thumbnail img-responsive"></img>
+                                                        <meta name="twitter:image:src" content="{{politician.immagine}}">
                                                 </a>
                                                 {% if politician.idItalia != blank %}
                                                 <div class="list-group-item">
@@ -74,15 +75,15 @@ p.dichiarazione {
                                         <div class="list-group list-group-flush">
                                                 <div class="list-group-item">
                                                         <div class="row">
-                                                                <div class="col-md-2">Fonte:</div> 
-                                                                <div class="col-md-10">{{page.issue.data["Nome fonte"]}}</div> 
+                                                                <div class="col-md-2">Fonte:</div>
+                                                                <div class="col-md-10">{{page.issue.data["Nome fonte"]}}</div>
                                                         </div>
                                                 </div>
                                                 {% if page.issue.data.urlfonte != blank %}
                                                 <div class="list-group-item">
                                                         <div class="row">
                                                                 <div class="col-md-2">Link Fonte:</div>
-                                                                <div class="col-md-10"><a href="{{page.issue.data.urlfonte}}">{{page.issue.data.urlfonte}}</a></div> 
+                                                                <div class="col-md-10"><a href="{{page.issue.data.urlfonte}}">{{page.issue.data.urlfonte}}</a></div>
                                                         </div>
                                                 </div>
                                                 {% endif %}
@@ -124,7 +125,7 @@ p.dichiarazione {
                                                 {% if page.issue.data.correlate.size > 0 %}
                                                 <div class="list-group-item">
                                                         <div class="row">
-                                                                <div class="col-md-2">Promesse collegate:</div> 
+                                                                <div class="col-md-2">Promesse collegate:</div>
                                                                 <div class="col-md-10">
                                                                         <small>
                                                                                 <div class="list-group list-group-flush">

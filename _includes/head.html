@@ -88,7 +88,11 @@
 {% else %}
   <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
+{% if page.share-img %}
+  <meta name="twitter:image:src" content="{{ page.share-img }}">
+{% else %}
   <meta name="twitter:image:src" content="http://unapromessa.it/images/noun_1156436.png">
+{% endif %}
 
 <link rel="apple-touch-icon" sizes="180x180" href="/logo.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/logo.png">
