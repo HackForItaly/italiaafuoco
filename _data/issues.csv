@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/89,291265889,2018-01-24 16:12:48,2018-01-24 16:10:05,Le promesse elettorali di Silvio #Berlusconi #FI su importanza per l'Europa e per l'Occidente di continuare una relazione amichevole con la Russia,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Politica Internazionale']",,,"{""Nome"": ""Silvio #Berlusconi"", ""Nome fonte"": ""Twitter Gruppo FI Camera"", ""data"": ""24/01/2018"", ""dichiarazione"": ""Con il signor #Junker abbiamo convenuto sull'importanza per l'Europa e per l'Occidente di continuare una relazione amichevole con la #Russia, come era stato a #PraticadiMare, al vertice Nato-Russia del 2002. #Ppe"", ""id"": ""24466130"", ""unapromessaID"": ""UQ11860"", ""urlfonte"": ""https://twitter.com/GruppoFICamera/status/955733288731201536""}","<pre><yamldata>Nome: 'Silvio #Berlusconi'
+data: 24/01/2018
+Nome fonte: 'Twitter Gruppo FI Camera'
+urlfonte: 'https://twitter.com/GruppoFICamera/status/955733288731201536'
+dichiarazione: 'Con il signor #Junker abbiamo convenuto sull''importanza per l''Europa e per l''Occidente di continuare una relazione amichevole con la #Russia, come era stato a #PraticadiMare, al vertice Nato-Russia del 2002. #Ppe'
+id: '24466130'
+unapromessaID: 'UQ11860'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/87,291217154,2018-01-24 15:45:29,2018-01-24 13:55:04,Le promesse elettorali di Lorenzo #Cesa #NoiconItalia su fiscalità: riduzione di 6 punti il cuneo fiscale,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Fiscalit\xe0', u'POLITICHE']",,,"{""Nome"": ""Lorenzo Cesa"", ""Nome fonte"": ""Profilo Twitter"", ""data"": ""24/01/2018"", ""dichiarazione"": ""Rilanciare investimenti e ridurre cuneo fiscale di 6 punti percentuali: questa \u00e8 la nostra ricetta per sostenere le imprese e l\u2019occupazione. In Italia il cuneo fiscale e\u2019 al 48% contro il 32% della media OCSE. Riduciamo questo gap, riduciamolo di 6 punti."", ""id"": ""24456983"", ""unapromessaID"": """", ""urlfonte"": ""https://twitter.com/L_Cesa/status/954289135593971712""}","<pre><yamldata>Nome: 'Lorenzo Cesa'
 data: 24/01/2018
 Nome fonte: 'Profilo Twitter'
