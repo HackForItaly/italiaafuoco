@@ -231,6 +231,10 @@ page_gen:
     template: promessa
     name: number
     dir: promessa
+  - data: unapromessa
+    template: politico
+    name: unapromessaID
+    dir: politico
 
 gems:
   - jekyll-paginate
