@@ -2,7 +2,6 @@
 layout: page
 title: Promesse Elettorali
 permalink: /promessa/
-share-img: "http://www.unapromessa.it/logo.png"
 ---
 
 {% for tagmap in site.data.tags.tagmap %}
