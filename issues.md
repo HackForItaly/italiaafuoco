@@ -2,6 +2,7 @@
 layout: page
 title: Issues
 permalink: /issues/
+share-img: "http://www.unapromessa.it/logo.png"
 ---
 
 <div class="text-center">
@@ -253,7 +254,7 @@ for (var i=0; i<markerList.length; i++) {
         var type = markerList[i][4]
 
         if (!isNaN(lat) && !isNaN(lon)) {
-                var markerLocation = new L.LatLng(lat, lon); 
+                var markerLocation = new L.LatLng(lat, lon);
                 if (type == 'Donazioni') {
                         var marker = new L.Marker(markerLocation, {icon: donazioniMarker});
                 } else if (type == 'Alloggi') {

@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 permalink: /post/
+share-img: "http://www.unapromessa.it/logo.png"
 ---
 <div class="posts">
   {% for post in site.posts %}

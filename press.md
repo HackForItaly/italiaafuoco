@@ -2,6 +2,7 @@
 layout: page
 title: Press
 permalink: /press/
+share-img: "http://www.unapromessa.it/logo.png"
 ---
 
 <script src="//code.jquery.com/jquery-1.12.3.js"></script>

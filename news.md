@@ -2,6 +2,7 @@
 layout: page
 title: News
 permalink: /news/
+share-img: "http://www.unapromessa.it/logo.png"
 ---
 
 <div class="panel-group">

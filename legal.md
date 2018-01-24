@@ -2,6 +2,7 @@
 layout: page
 title: Note Legali
 permalink: /legal/
+share-img: "http://www.unapromessa.it/logo.png"
 ---
 
 Politicamente Corretto è un progetto promosso da un team di volontari.

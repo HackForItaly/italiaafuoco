@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+share-img: "http://www.unapromessa.it/logo.png"
 ---
 
 ### Il Progetto

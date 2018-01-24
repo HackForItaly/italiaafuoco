@@ -2,6 +2,7 @@
 layout: page
 title: Collabora
 permalink: /collabora/
+share-img: "http://www.unapromessa.it/logo.png"
 ---
 
 Questo è un progetto che cerca la tua collaborazione. Come puoi aiutarci? Ci sono molti modi di farlo:

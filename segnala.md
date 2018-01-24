@@ -2,6 +2,7 @@
 layout: page
 title: Segnala
 permalink: /segnala/
+share-img: "http://www.unapromessa.it/logo.png"
 ---
 
 <div class="row">

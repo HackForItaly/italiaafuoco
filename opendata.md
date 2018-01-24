@@ -2,6 +2,7 @@
 layout: page
 title: Opendata
 permalink: /opendata/
+share-img: "http://www.unapromessa.it/logo.png"
 ---
 
 

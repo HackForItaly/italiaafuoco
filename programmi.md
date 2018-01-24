@@ -2,6 +2,7 @@
 layout: page
 title: Programmi
 permalink: /programmi/
+share-img: "http://www.unapromessa.it/logo.png"
 ---
 
 In tabella troverete tutti i riferimenti ai programmi elettorali raccolti da questo progetto.
