@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/82,291207455,2018-01-24 15:18:55,2018-01-24 13:25:05,Le promesse elettorali di Mariastella #Gelmini #ForzaItalia per la riduzione del costo del lavoro,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Fiscalit\xe0', u'Lavoro', u'POLITICHE']",,,"{""Nome"": ""Mariastella Gelmini"", ""Nome fonte"": ""Proflo ufficiale Twitter"", ""data"": ""24/01/2018"", ""dichiarazione"": ""Creare lavoro per i giovani \u00e8 tra le priorit\u00e0 del nostro programma. La nostra \u00e8 una proposta concreta che supera la logica dei bonus a pioggia: riduzione del costo del lavoro con decontribuzione totale fino a 6 anni e detassazione dell\u2019apprendistato formativo."", ""id"": ""24455477"", ""unapromessaID"": ""UQ466712"", ""urlfonte"": ""https://twitter.com/msgelmini/status/953281188092932096""}","<pre><yamldata>Nome: 'Mariastella Gelmini'
+data: 24/01/2018
+Nome fonte: 'Proflo ufficiale Twitter'
+urlfonte: 'https://twitter.com/msgelmini/status/953281188092932096'
+dichiarazione: 'Creare lavoro per i giovani è tra le priorità del nostro programma. La nostra è una proposta concreta che supera la logica dei bonus a pioggia: riduzione del costo del lavoro con decontribuzione totale fino a 6 anni e detassazione dell’apprendistato formativo.'
+id: '24455477'
+unapromessaID: 'UQ466712'
+</yamldata></pre>",open
+https://github.com/HackForItaly/politicamentecorretto_data/issues/81,291205895,2018-01-24 15:18:37,2018-01-24 13:20:05,Le promesse elettorali di Silvio #Berlusconi #ForzaItalia: rispettare paramentro 3% e azzerare deficit entro 2020,,,"[u'ACCETTATO', u'ANNO_2018', u'Economia', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Silvio Berlusconi"", ""Nome fonte"": ""Adnkronos"", ""data"": ""24/01/2018"", ""dichiarazione"": ""Silvio Berlusconi, ospite di Radio 24: \""Abbiamo intenzione di mantenere gli impegni assunti dall'Italia nei confronti dell'Europa\"", compreso il parametro del 3 per cento, \""sempre che sia possibile\"".  Berlusconi ha quindi espresso l'auspicio di mantenere l'impegno ad azzerare il deficit entro il 2020."", ""id"": ""24454881"", ""unapromessaID"": ""UQ11860"", ""urlfonte"": ""http://www.adnkronos.com/fatti/politica/2018/01/24/berlusconi-impegno-azzerare-deficit-entro_2En2lS9AMW1F3K3Uf6vywK.html?refresh_ce""}","<pre><yamldata>Nome: 'Silvio Berlusconi'
+data: 24/01/2018
+Nome fonte: 'Adnkronos'
+urlfonte: 'http://www.adnkronos.com/fatti/politica/2018/01/24/berlusconi-impegno-azzerare-deficit-entro_2En2lS9AMW1F3K3Uf6vywK.html?refresh_ce'
+dichiarazione: 'Silvio Berlusconi, ospite di Radio 24: ""Abbiamo intenzione di mantenere gli impegni assunti dall''Italia nei confronti dell''Europa"", compreso il parametro del 3 per cento, ""sempre che sia possibile"".  Berlusconi ha quindi espresso l''auspicio di mantenere l''impegno ad azzerare il deficit entro il 2020.'
+id: '24454881'
+unapromessaID: 'UQ11860'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/80,291204327,2018-01-24 15:14:15,2018-01-24 13:15:05,Le promesse elettorali di Silvio #Berlusconi per cambiare il modello 730,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Fiscalit\xe0', u'POLITICHE']",,,"{""Nome"": ""Silvio Berlusconi"", ""Nome fonte"": ""Profilo Twitter Non \u00e8 l'Arena"", ""data"": ""24/01/2018"", ""dichiarazione"": ""Nel progetto di riforma fiscale di Silvio Berlusconi c'\u00e8 anche il cambiamento del modello 730 per la dichiarazione dei redditi: \u00abSar\u00e0 composto da una sola pagina facile da compilare\u00bb, ha detto durante l'intervista a #nonelarena."", ""id"": ""24454553"", ""unapromessaID"": """", ""urlfonte"": ""https://twitter.com/nonelarena/status/956120587998584832""}","<pre><yamldata>Nome: 'Silvio Berlusconi'
 data: 24/01/2018
 Nome fonte: 'Profilo Twitter Non è l''Arena'
