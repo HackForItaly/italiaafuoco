@@ -41,6 +41,8 @@ p.dichiarazione {
                                                 <a class="list-group-item" href="/politico/{{page.issue.data.unapromessaID | downcase }}">
                                                         <img src="{{politician.immagine}}" class="img-thumbnail img-responsive"></img>
                                                         <meta name="twitter:image:src" content="{{politician.immagine}}">
+                                                        <meta property="og:image" content="{{politician.immagine}}" />
+
                                                 </a>
                                                 {% if politician.idItalia != blank %}
                                                 <div class="list-group-item">
