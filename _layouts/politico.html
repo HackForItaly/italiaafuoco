@@ -10,25 +10,22 @@ layout: base
                         {% assign politicianissues = site.data.issuesjson | where: "issue.data.unapromessaID", page.unapromessaID %}
 
                         <div class="col-md-2">
-                                <div class="list-group list-group-default">
-                                        <div class="list-group-item"><img src="{{page.immagine}}" class="img-thumbnail img-responsive"></img>
-                                        </div>
-                                        {% if page.wikipediaIT != blank %}
-                                        <a class="list-group-item" href="{{page.wikipediaIT}}" target="_blank">
-                                                Wikipedia
-                                        </a>
-                                        {% endif %}
-                                        {% if page.idItalia != blank %}
-                                        <small>
-                                                <a class="list-group-item" href="http://www.camera.it/leg17/29?tipoAttivita=attivita&tipoVisAtt=&tipoPersona=&idLegislatura=17&shadow_deputato={{page.idItalia}}" target="_blank" alt="Attività svolte nel corso della XVII legislatura" title="Attività svolte nel corso della XVII legislatura">
-                                                        Attività parlamentari
-                                                </a>
-                                        </small>
-                                        {% endif %}
-                                </div>
+                                <img src="{{page.immagine}}" class="img-thumbnail img-responsive"></img>
                         </div>
                         <div class="col-md-10">
                                 <h1>{{page.nome}}</h1>
+                                <div class="list-group list-group-default">
+                                        {% if page.wikipediaIT != blank %}
+                                        <a class="list-group-item" href="{{page.wikipediaIT}}" target="_blank">
+                                                &#xf0a9;&nbsp;Wikipedia
+                                        </a>
+                                        {% endif %}
+                                        {% if page.idItalia != blank %}
+                                        <a class="list-group-item" href="http://www.camera.it/leg17/29?tipoAttivita=attivita&tipoVisAtt=&tipoPersona=&idLegislatura=17&shadow_deputato={{page.idItalia}}" target="_blank" alt="Attività svolte nel corso della XVII legislatura" title="Attività svolte nel corso della XVII legislatura">
+                                                &#xf0a9;&nbsp;Attività parlamentari
+                                        </a>
+                                        {% endif %}
+                                </div>
                         </div>
                 </div>
 
