@@ -10,3 +10,7 @@
   logo: /img/icone/regionali.png
   map: false
   link: regionali_2018
+- name: "PROGRAMMI"
+  logo: /img/icone/programmi.png
+  map: false
+  link: programmi
