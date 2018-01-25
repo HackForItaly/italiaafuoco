@@ -55,13 +55,13 @@ dichiarazione: '""Istituire Procura speciale che si occupi dei reati bancari e f
 id: '24468573'
 unapromessaID: ''
 </yamldata></pre>",open
-https://github.com/HackForItaly/politicamentecorretto_data/issues/90,291267763,2018-01-24 21:18:13,2018-01-24 16:15:05,Le promesse elettorali di Alberto #Bagnai #Lega sull'Euro,,,"[u'ACCETTATO', u'ANNO_2018', u'Euro', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Alberto Bagnai"", ""Nome fonte"": ""Il Populista"", ""data"": ""24/01/2018"", ""dichiarazione"": ""l'euro \u00e8 un esperimento sbagliato e stiamo lavorando per mettere in sicurezza il risparmio delle famiglie italiane"", ""id"": ""24466831"", ""unapromessaID"": ""U697"", ""urlfonte"": ""http://www.ilpopulista.it/news/23-Gennaio-2018/22690/la-lega-sfida-padoan-a-siena-con-borghi-e-candida-l-economista-alberto-bagnai.html""}","<pre><yamldata>Nome: 'Alberto Bagnai'
+https://github.com/HackForItaly/politicamentecorretto_data/issues/90,291267763,2018-01-25 08:39:07,2018-01-24 16:15:05,Le promesse elettorali di Alberto #Bagnai #Lega sull'Euro,,,"[u'ACCETTATO', u'ANNO_2018', u'Euro', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Alberto Bagnai"", ""Nome fonte"": ""Il Populista"", ""data"": ""24/01/2018"", ""dichiarazione"": ""l'euro \u00e8 un esperimento sbagliato e stiamo lavorando per mettere in sicurezza il risparmio delle famiglie italiane"", ""id"": ""24466831"", ""unapromessaID"": ""UQ19394935"", ""urlfonte"": ""http://www.ilpopulista.it/news/23-Gennaio-2018/22690/la-lega-sfida-padoan-a-siena-con-borghi-e-candida-l-economista-alberto-bagnai.html""}","<pre><yamldata>Nome: 'Alberto Bagnai'
 data: 24/01/2018
 Nome fonte: 'Il Populista'
 urlfonte: 'http://www.ilpopulista.it/news/23-Gennaio-2018/22690/la-lega-sfida-padoan-a-siena-con-borghi-e-candida-l-economista-alberto-bagnai.html'
 dichiarazione: 'l''euro è un esperimento sbagliato e stiamo lavorando per mettere in sicurezza il risparmio delle famiglie italiane'
 id: '24466831'
-unapromessaID: 'U697'
+unapromessaID: 'UQ19394935'
 </yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/89,291265889,2018-01-24 22:58:06,2018-01-24 16:10:05,Le promesse elettorali di Silvio #Berlusconi #ForzaItalia sull'importanza di relazioni amichevoli con la Russia,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Politica Internazionale']",,,"{""Nome"": ""Silvio #Berlusconi"", ""Nome fonte"": ""Twitter Gruppo FI Camera"", ""data"": ""24/01/2018"", ""dichiarazione"": ""Con il signor #Junker abbiamo convenuto sull'importanza per l'Europa e per l'Occidente di continuare una relazione amichevole con la #Russia, come era stato a #PraticadiMare, al vertice Nato-Russia del 2002. #Ppe"", ""id"": ""24466130"", ""unapromessaID"": ""UQ11860"", ""urlfonte"": ""https://twitter.com/GruppoFICamera/status/955733288731201536""}","<pre><yamldata>Nome: 'Silvio #Berlusconi'
 data: 24/01/2018
