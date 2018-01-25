@@ -61,11 +61,11 @@ dichiarazione: '“La politica ha un dovere: assicurare la sicurezza sociale all
 id: '24481684'
 unapromessaID: ''
 </yamldata></pre>",open
-https://github.com/HackForItaly/politicamentecorretto_data/issues/92,291366560,2018-01-24 21:32:50,2018-01-24 21:30:05,Le promesse elettorali di Attilio #Fontana #Lega su sicurezza nelle stazioni ferroviarie,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Lombardia', u'REGIONALI', u'Sicurezza']",,,"{""Nome"": ""Attilio Fontana"", ""Nome fonte"": ""La Repubblica"", ""data"": ""24/01/2018"", ""dichiarazione"": ""pi\u00f9 telecamere nelle stazioni e vigilantes sui treni"", ""id"": ""24480542"", ""unapromessaID"": ""UQ3629240"", ""urlfonte"": ""https://twitter.com/FontanaPres/status/956132901225148416""}","<pre><yamldata>Nome: 'Attilio Fontana'
+https://github.com/HackForItaly/politicamentecorretto_data/issues/92,291366560,2018-01-25 21:21:33,2018-01-24 21:30:05,Le promesse elettorali di Attilio #Fontana #Lega su sicurezza nelle stazioni ferroviarie,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Lombardia', u'REGIONALI', u'Sicurezza']",,,"{""Nome"": ""Attilio Fontana"", ""Nome fonte"": ""La Repubblica"", ""data"": ""24/01/2018"", ""dichiarazione"": ""Pi\u00f9 telecamere nelle stazioni e vigilantes sui treni."", ""id"": ""24480542"", ""unapromessaID"": ""UQ3629240"", ""urlfonte"": ""https://twitter.com/FontanaPres/status/956132901225148416""}","<pre><yamldata>Nome: 'Attilio Fontana'
 data: 24/01/2018
 Nome fonte: 'La Repubblica'
 urlfonte: 'https://twitter.com/FontanaPres/status/956132901225148416'
-dichiarazione: 'più telecamere nelle stazioni e vigilantes sui treni'
+dichiarazione: 'Più telecamere nelle stazioni e vigilantes sui treni.'
 id: '24480542'
 unapromessaID: 'UQ3629240'
 </yamldata></pre>",open
