@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/106,291734810,2018-01-25 22:18:17,2018-01-25 22:15:06,Le promesse elettorali di Attilio #Fontana #Lega sulle case popolari: affitto azzerato agli ultra settantenni ,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Lombardia', u'REGIONALI', u'Welfare']",,,"{""Nome"": ""Attilio Fontana"", ""Nome fonte"": ""La Repubblica"", ""correlate"": [36], ""data"": ""25/01/2018"", ""dichiarazione"": ""Nel programma sono previsti pi\u00f9 asili gratis e affitto azzerato nelle case popolari per gli ultra settantenni."", ""id"": ""24531305"", ""unapromessaID"": ""UQ3629240"", ""urlfonte"": ""http://ricerca.repubblica.it/repubblica/archivio/repubblica/2018/01/24/cura-sicurezza-con-le-telecamere-nelle-stazioni-via-i-clandestiniMilano02.html""}","<pre><yamldata>Nome: 'Attilio Fontana'
+data: 25/01/2018
+Nome fonte: 'La Repubblica'
+urlfonte: 'http://ricerca.repubblica.it/repubblica/archivio/repubblica/2018/01/24/cura-sicurezza-con-le-telecamere-nelle-stazioni-via-i-clandestiniMilano02.html'
+dichiarazione: 'Nel programma sono previsti più asili gratis e affitto azzerato nelle case popolari per gli ultra settantenni.'
+id: '24531305'
+unapromessaID: 'UQ3629240'
+correlate:
+- 36
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/103,291637696,2018-01-25 18:18:43,2018-01-25 16:45:05,Le promesse elettorali di Paolo #Gentiloni #Pd su investimenti nella cooperazione internazionale,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Politica Internazionale']",,,"{""Nome"": ""Paolo Gentiloni"", ""Nome fonte"": ""Regioni.it"", ""correlate"": [97], ""data"": ""25/01/2018"", ""dichiarazione"": ""A chiusura dei lavori della conferenza nazionale Coopera Paolo Gentiloni ha dichiarato: \""\""da tre o quattro anni le risorse per l'aiuto pubblico sono raddoppiate, passando dallo 0,14 allo 0,27 del Pil con l'obiettivo di crescere allo 0,30 entro il 2020. Dobbiamo sapere che da questo lavoro di volontariato e da questo impegno professionale in cooperazione non dipende solo il delinearsi di alcuni progetti esemplari e pilota, bensi' un elemento fondamentale del meccanismo di cooperazione e di sicurezza che serve oggi nel mondo.\"""", ""id"": ""24518695"", ""unapromessaID"": ""UQ1071031"", ""urlfonte"": ""http://www.regioni.it/ue-esteri/2018/01/25/cooperazione-gentiloni-risorse-raddoppiate-in-gioco-sicurezza-548402/""}","<pre><yamldata>Nome: 'Paolo Gentiloni'
 data: 25/01/2018
 Nome fonte: 'Regioni.it'
@@ -453,13 +463,15 @@ dichiarazione: '"""""" Tre priorità: lavoro, lavoro, lavoro’. Vuol dire poten
 id: '24300234'
 unapromessaID: 'UQ3765505'
 </yamldata></pre>",open
-https://github.com/HackForItaly/politicamentecorretto_data/issues/36,290179193,2018-01-23 10:12:17,2018-01-20 09:35:05,Le promesse elettorali di Attilio #Fontana #Lega su affitto Aler dimezzato per chi ha sempre pagato ,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'REGIONALI', u'Welfare']",,,"{""Nome"": ""Attilio Fontana"", ""Nome fonte"": ""Twitter @FontanaPres"", ""data"": ""20/01/2018"", ""dichiarazione"": ""Nei quartieri popolari bisogna dare segnali a chi rispetta le regole: AFFITTO DIMEZZATO Aler PER CHI HA SEMPRE PAGATO."", ""id"": ""24299702"", ""unapromessaID"": ""UQ3629240"", ""urlfonte"": ""https://twitter.com/FontanaPres/status/954303260030132224""}","<pre><yamldata>Nome: 'Attilio Fontana'
+https://github.com/HackForItaly/politicamentecorretto_data/issues/36,290179193,2018-01-25 22:18:58,2018-01-20 09:35:05,Le promesse elettorali di Attilio #Fontana #Lega su affitto Aler dimezzato per chi ha sempre pagato ,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Lombardia', u'REGIONALI', u'Welfare']",,,"{""Nome"": ""Attilio Fontana"", ""Nome fonte"": ""Twitter @FontanaPres"", ""correlate"": [106], ""data"": ""20/01/2018"", ""dichiarazione"": ""Nei quartieri popolari bisogna dare segnali a chi rispetta le regole: AFFITTO DIMEZZATO Aler PER CHI HA SEMPRE PAGATO."", ""id"": ""24299702"", ""unapromessaID"": ""UQ3629240"", ""urlfonte"": ""https://twitter.com/FontanaPres/status/954303260030132224""}","<pre><yamldata>Nome: 'Attilio Fontana'
 data: 20/01/2018
 Nome fonte: 'Twitter @FontanaPres'
 urlfonte: 'https://twitter.com/FontanaPres/status/954303260030132224'
 dichiarazione: 'Nei quartieri popolari bisogna dare segnali a chi rispetta le regole: AFFITTO DIMEZZATO Aler PER CHI HA SEMPRE PAGATO.'
 id: '24299702'
 unapromessaID: 'UQ3629240'
+correlate:
+- 106
 </yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/35,290178690,2018-01-22 14:19:40,2018-01-20 09:25:05,Le promesse elettorali di Dario #Violi #M5S  su sicurezza: porto d'armi per tenere cani feroci,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Lombardia', u'Sicurezza']",,,"{""Nome"": ""Dario Violi"", ""Nome fonte"": ""Twitter @movianimalista"", ""data"": ""20/01/2018"", ""dichiarazione"": ""\u201cIn questi anni abbiamo visto ripetutamente quanti cani feroci hanno aggredito nei parchi bambini con ferite gravi e anche uccidendoli. Avere un cane comporta delle responsabilit\u00e0 e non tutti sono in grado di gestirli. Per cui se andremo al governo della Regione la nostra proposta, che riguarda solo razze molto aggressive, \u00e8 che sia istituito una sorta di \u2018porto d\u2019armi\u2019, di patentino, un corso di formazione che viene rilasciato prima di dare in mano un cane feroce a una persona\u201d"", ""id"": ""24299544"", ""unapromessaID"": ""U683"", ""urlfonte"": ""https://www.nelcuore.org/home/2018/01/19/violi-m5s-porto-darmi-per-tenere-cani-feroci/""}","<pre><yamldata>Nome: 'Dario Violi'
 data: 20/01/2018
