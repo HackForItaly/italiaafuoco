@@ -19,8 +19,11 @@ common-js:
 {% capture title %}Promessa di {{page.issue.data.Nome}}{% endcapture %}
 {% assign description = page.issue.data.dichiarazione | replace: '""', '"' | replace: "''", "'" | xml_escape %}
 {% if page.issue.data.unapromessaID != blank %}
-{% assign politician=site.data.unapromessa | where_exp: "pol","pol.unapromessaID == page.issue.data.unapromessaID" %}
+{% assign politician = site.data.unapromessa | where_exp: "pol","pol.unapromessaID == page.issue.data.unapromessaID" %}
+{% if politician.size > 0 %}
+{% assign politician=politician[0] %}
 {% assign share-img = politician.immagine %}
+{% endif %}
 {% endif %}
 
 <!DOCTYPE html>
