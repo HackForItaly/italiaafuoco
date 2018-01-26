@@ -13,6 +13,11 @@
 {% if date == blank %}
 {% assign date = page.date %}
 {% endif %} 
+
+{% if description == blank %}
+{% assign description = page.description %}
+{% endif %} 
+
 <head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
@@ -101,8 +106,8 @@
 {% if page.url %}
   <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
 {% endif %}
-{% if page.description %}
-  <meta name="twitter:description" content="{{ page.description }}">
+{% if description %}
+  <meta name="twitter:description" content="{{ description }}">
 {% else %}
   <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}

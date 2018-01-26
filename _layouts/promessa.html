@@ -1,20 +1,16 @@
 ---
-layout: base
+layout: promessa_base
 ---
 
-{% include header.html type="issue" %}
-
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet@1.0.0/dist/leaflet.js"></script>
-    <style>
+<style>
 
 p.dichiarazione {
         font-size: 20pt;
 }
 
-  </style>
+</style>
 
-{% assign dichiarazione = page.issue.data.dichiarazione | replace: '""', '"' | replace: "''", "'" %}
+{% assign dichiarazione = page.issue.data.dichiarazione | replace: '""', '"' | replace: "''", "'" | xml_escape %}
 {% capture tags %}
 {% for tag in page.issue.labels %}
 {% assign ignoretag = 1 %}
