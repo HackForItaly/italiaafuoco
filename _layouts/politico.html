@@ -4,7 +4,6 @@ layout: politico_base
 
 <div class="container" role="main">
         <div class="col-md-12">
-                {% assign page.title = page.nome %}
                 {% include header.html type="issue" %}
                 <div class="row">
                         {% assign politicianissues = site.data.issuesjson | where: "issue.data.unapromessaID", page.unapromessaID %}
