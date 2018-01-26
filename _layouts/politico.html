@@ -1,4 +1,5 @@
 ---
+share-img: page.immagine
 layout: base
 ---
 
@@ -32,11 +33,11 @@ layout: base
 
                 {% for tagmap in site.data.tags.tagmap %}
                 {% assign tag = tagmap[0] %}
+                {% assign filteredissues = politicianissues | where_exp: "member","member.issue.labels contains tag" %}
+                {% if filteredissues.size > 0 %}
                 <div class="row">
-
                         <h2>{{tag}}</h2>
 
-                        {% assign filteredissues = politicianissues | where_exp: "member","member.issue.labels contains tag" %}
                         {% for member in filteredissues %}
                         <div class="col-md-4 col-xs-12">
                                 <div class="panel panel-default">
@@ -63,6 +64,7 @@ layout: base
 
                 </div>
                 <hr class="col-md-12"/>
+                {% endif %}
                 {% endfor %}
         </div>
 </div>
