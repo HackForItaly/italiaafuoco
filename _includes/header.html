@@ -1,10 +1,31 @@
 <!-- TODO this file has become a mess, refactor it -->
 <div id="fb-root"></div>
-{% if page.bigimg or page.title %}
 
-{% if page.bigimg %}
-  <div id="header-big-imgs" data-num-img={% if page.bigimg.first %}{{ page.bigimg.size }}{% else %}1{% endif %}
-    {% for bigimg in page.bigimg %}
+{% if title == blank %}
+{% assign title = page.title %}
+{% endif %} 
+
+{% if subtitle == blank %}
+{% assign subtitle = page.subtitle %}
+{% endif %} 
+
+{% if bigimg == blank %}
+{% assign bigimg = page.bigimg %}
+{% endif %} 
+
+{% if share-img == blank %}
+{% assign share-img = page.share-img %}
+{% endif %} 
+
+{% if date == blank %}
+{% assign date = page.date %}
+{% endif %} 
+
+{% if bigimg or title %}
+
+{% if bigimg %}
+  <div id="header-big-imgs" data-num-img={% if bigimg.first %}{{ bigimg.size }}{% else %}1{% endif %}
+    {% for bigimg in bigimg %}
 	  {% assign imgnum = forloop.index %}
 	  {% for imginfo in bigimg %}
 	    {% if imginfo[0] %}
@@ -18,8 +39,8 @@
   ></div>
 {% endif %}
 
-<header class="header-section {% if page.bigimg %}has-img{% endif %}">
-{% if page.bigimg %}
+<header class="header-section {% if bigimg %}has-img{% endif %}">
+{% if bigimg %}
 <div class="big-img intro-header">
   <div class="container">
     <div class="row">
@@ -39,18 +60,18 @@
 	  <gcse:search></gcse:search>
   	</div>
         <div class="{{ include.type }}-heading">
-          <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
-		  {% if page.subtitle %}
+          <h1>{% if title %}{{ title }}{% else %}<br/>{% endif %}</h1>
+		  {% if subtitle %}
 		    {% if include.type == "page" %}
             <hr class="small">
-            <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
+            <span class="{{ include.type }}-subheading">{{ subtitle }}</span>
 			{% else %}
-			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
+			<h2 class="{{ include.type }}-subheading">{{ subtitle }}</h2>
 			{% endif %}
 		  {% endif %}
 
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+		  <span class="post-meta">Posted on {{ date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
         </div>
       </div>
@@ -65,19 +86,19 @@
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <div class="{{ include.type }}-heading">
                 {%if include.type != "issue" %}
-          <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
+          <h1>{% if title %}{{ title }}{% else %}<br/>{% endif %}</h1>
           {% endif %}
-		  {% if page.subtitle %}
+		  {% if subtitle %}
 		    {% if include.type == "page" %}
             <hr class="small">
-            <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
+            <span class="{{ include.type }}-subheading">{{ subtitle }}</span>
 			{% else %}
-			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
+			<h2 class="{{ include.type }}-subheading">{{ subtitle }}</h2>
 			{% endif %}
 		  {% endif %}
 
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+		  <span class="post-meta">Posted on {{ date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
 
         </div>

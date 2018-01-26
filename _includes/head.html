@@ -1,13 +1,28 @@
+{% if title == blank %}
+{% assign title = page.title %}
+{% endif %} 
+
+{% if subtitle == blank %}
+{% assign subtitle = page.subtitle %}
+{% endif %} 
+
+{% if bigimg == blank %}
+{% assign bigimg = page.bigimg %}
+{% endif %} 
+
+{% if date == blank %}
+{% assign date = page.date %}
+{% endif %} 
 <head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>{% if page.url == '/' %}{{ page.title }}{% else %}{{ page.title }} | #PoliticamenteCorretto{% endif %}</title>
+  <title>{% if page.url == '/' %}{{ title }}{% else %}{{ title }} | #PoliticamenteCorretto{% endif %}</title>
 
   <meta name="author" content="{{ site.author.name }}" />
 
-  {% if page.subtitle %}
-  <meta name="description" content="{{ page.subtitle }}">
+  {% if subtitle %}
+  <meta name="description" content="{{ subtitle }}">
   {% endif %}
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
@@ -55,15 +70,15 @@
   {% endif %}
 
   <!-- Facebook OpenGraph tags -->
-  <meta property="og:title" content="{% if page.url == '/' %}{{ page.title }}{% else %}{{ page.title }} | {{ site.title }}{% endif %}" />
+  <meta property="og:title" content="{% if page.url == '/' %}{{ title }}{% else %}{{ title }} | {{ site.title }}{% endif %}" />
   <meta property="og:type" content="website" />
   {% if page.id %}
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   {% else %}
   <meta property="og:url" content="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}" />
   {% endif %}
-  {% if page.share-img %}
-  <meta property="og:image" content="{{ page.share-img }}" />
+  {% if share-img %}
+  <meta property="og:image" content="{{ share-img }}" />
   {% else %}
     <!--<meta property="og:image" content="http://www.unapromessa.it/logo.png" />-->
   {% endif %}
@@ -76,9 +91,9 @@
 <meta name="twitter:site" content="@politicacorr">
 <meta name="twitter:creator" content="@politicacorr">
 {% if page.url == '/' %}
-  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:title" content="{{ title }}">
 {% else %}
-  <meta name="twitter:title" content="{{ page.title }} | {{ site.title }}">
+  <meta name="twitter:title" content="{{ title }} | {{ site.title }}">
 {% endif %}
 {% if page.url %}
   <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
@@ -88,8 +103,8 @@
 {% else %}
   <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
-{% if page.share-img %}
-  <meta name="twitter:image:src" content="{{ page.share-img }}">
+{% if share-img %}
+  <meta name="twitter:image:src" content="{{ share-img }}">
 {% else %}
   <meta name="twitter:image:src" content="http://unapromessa.it/images/noun_1156436.png">
 {% endif %}
