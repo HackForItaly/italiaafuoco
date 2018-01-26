@@ -7,6 +7,14 @@ dichiarazione: 'Il presidente del Senato e leader di LeU (Liberi e Uguali), Piet
 id: '24550129'
 unapromessaID: 'UQ2503364'
 </yamldata></pre>",open
+https://github.com/HackForItaly/politicamentecorretto_data/issues/112,291878026,2018-01-26 13:00:52,2018-01-26 11:45:07,Le promesse elettorali di Debora #Serracchiani #Pd su riduzione costo del lavoro,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Fiscalit\xe0', u'Lavoro', u'POLITICHE']",,,"{""Nome"": ""Debora Serracchiani"", ""Nome fonte"": ""Profilo Twitter"", ""data"": ""26/01/2018"", ""dichiarazione"": ""Nel prossimo mandato vogliamo ridurre il costo del lavoro al 29%. Non possiamo pi\u00f9 tollerare questa discrepanza tra lordo e netto in busta paga. #mattino5"", ""id"": ""24549664"", ""unapromessaID"": ""UQ3704388"", ""urlfonte"": ""https://twitter.com/serracchiani/status/956805525391511553""}","<pre><yamldata>Nome: 'Debora Serracchiani'
+data: 26/01/2018
+Nome fonte: 'Profilo Twitter'
+urlfonte: 'https://twitter.com/serracchiani/status/956805525391511553'
+dichiarazione: 'Nel prossimo mandato vogliamo ridurre il costo del lavoro al 29%. Non possiamo più tollerare questa discrepanza tra lordo e netto in busta paga. #mattino5'
+id: '24549664'
+unapromessaID: 'UQ3704388'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/111,291861388,2018-01-26 10:46:49,2018-01-26 10:40:04,Le promesse elettorali di #LucaPastorino #Leu su tutele lavoratori e welfare,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Lavoro', u'POLITICHE', u'Welfare']",,,"{""Nome"": ""Luca Pastorino"", ""Nome fonte"": ""Business Journal Liguria"", ""data"": ""26/01/2018"", ""dichiarazione"": ""Intendiamo ripristinare tutte le tutele del lavoro abolite in modo maldestro. Abbiamo forte attenzione ai temi sociali, anche in questo caso sociali in senso ampio. Uno su tutti, il problema degli asili nido, che per molte famiglie hanno costi difficili da sostenere, ma c\u2019\u00e8 anche quello dell\u2019universit\u00e0."", ""id"": ""24547741"", ""unapromessaID"": ""UQ16573877"", ""urlfonte"": ""http://liguria.bizjournal.it/2018/01/politiche2018/""}","<pre><yamldata>Nome: 'Luca Pastorino'
 data: 26/01/2018
 Nome fonte: 'Business Journal Liguria'
