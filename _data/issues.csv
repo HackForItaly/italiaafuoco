@@ -31,13 +31,13 @@ dichiarazione: '""""""Alla BEI, la Banca europea per gli investimenti, chiederò
 id: '24576571'
 unapromessaID: 'U683'
 </yamldata></pre>",open
-https://github.com/HackForItaly/politicamentecorretto_data/issues/114,292052304,2018-01-26 22:58:08,2018-01-26 22:35:05,Le promesse elettorali di #GiorgioGori #PD: formazione professionale per richiedenti asilo in artigianato e imprese ,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Immigrazione', u'Lombardia', u'REGIONALI']",,,"{""Nome"": ""Giorgio Gori"", ""Nome fonte"": ""TGcom 24"", ""data"": ""26/01/2018"", ""dichiarazione"": ""formazione al lavoro per richiedenti asilo per loro impiego nell'artigianato e nelle imprese che faticano a trovare lavoratori"", ""id"": ""24576448"", ""unapromessaID"": """", ""urlfonte"": ""https://www.facebook.com/giorgiogori9/videos/1926405310765355/""}","<pre><yamldata>Nome: 'Giorgio Gori'
+https://github.com/HackForItaly/politicamentecorretto_data/issues/114,292052304,2018-01-28 14:39:08,2018-01-26 22:35:05,Le promesse elettorali di #GiorgioGori #PD: formazione professionale per richiedenti asilo in artigianato e imprese ,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Immigrazione', u'Lombardia', u'REGIONALI']",,,"{""Nome"": ""Giorgio Gori"", ""Nome fonte"": ""TGcom 24"", ""data"": ""26/01/2018"", ""dichiarazione"": ""Formazione al lavoro per richiedenti asilo per loro impiego nell'artigianato e nelle imprese che faticano a trovare lavoratori"", ""id"": ""24576448"", ""unapromessaID"": ""UQ3765505"", ""urlfonte"": ""https://www.facebook.com/giorgiogori9/videos/1926405310765355/""}","<pre><yamldata>Nome: 'Giorgio Gori'
 data: 26/01/2018
 Nome fonte: 'TGcom 24'
 urlfonte: 'https://www.facebook.com/giorgiogori9/videos/1926405310765355/'
-dichiarazione: 'formazione al lavoro per richiedenti asilo per loro impiego nell''artigianato e nelle imprese che faticano a trovare lavoratori'
+dichiarazione: 'Formazione al lavoro per richiedenti asilo per loro impiego nell''artigianato e nelle imprese che faticano a trovare lavoratori'
 id: '24576448'
-unapromessaID: ''
+unapromessaID: 'UQ3765505'
 </yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/113,291881306,2018-01-26 22:26:47,2018-01-26 12:00:05,Le promesse elettorali di Pietro #Grasso #Leu sulle adozioni per le coppie omosessuali,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Questioni di genere', u'Welfare']",,,"{""Nome"": ""Pietro Grasso"", ""Nome fonte"": ""www.gay.it"", ""data"": ""26/01/2018"", ""dichiarazione"": ""Il presidente del Senato e leader di LeU (Liberi e Uguali), Pietro Grasso, ha rilasciato un\u2019intervista a Radio 24 nelle scorse ore. Nel corso dell\u2019intervista si \u00e8 detto favorevole all\u2019approvazione della stepchild adoption e delle adozioni per le coppie omosessuali."", ""id"": ""24550129"", ""unapromessaID"": ""UQ2503364"", ""urlfonte"": ""http://www.gay.it/attualita/news/pietro-grasso-liberi-e-uguali""}","<pre><yamldata>Nome: 'Pietro Grasso'
 data: 26/01/2018
