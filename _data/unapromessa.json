@@ -6271,5 +6271,23 @@
     "wikipediaIT": "https://it.wikipedia.org/wiki/Carlo_Calenda",
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Carlo_Calenda_%28cropped%29.jpg/200px-Carlo_Calenda_%28cropped%29.jpg",
     "idItalia": null
+  },
+  {
+    "wikidata": "Q15632210",
+    "unapromessaID": "UQ15632210",
+    "twitter": "stefanolepri",
+    "nome": "Stefano Lepri",
+    "wikipediaIT": "https://it.wikipedia.org/wiki/Stefano_Lepri_(politico)",
+    "immagine": "http://www.stefanolepri.it/wp-content/uploads/2012/01/consigliere-regionale-891x1024.jpg",
+    "idItalia": null
+  },
+  {
+    "wikidata": "Q3624592",
+    "unapromessaID": "UQ3624592",
+    "twitter": "Arturo_Scotto",
+    "nome": "Arturo Scotto",
+    "wikipediaIT": "https://it.wikipedia.org/wiki/Arturo_Scotto",
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Arturo_Scotto_daticamera.jpg",
+    "idItalia": null
   }
 ]
