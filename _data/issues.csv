@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/123,292216957,2018-01-28 16:32:34,2018-01-28 16:20:05,Le promesse elettorali di Riccardo #Nencini #Insieme su salari e parità di genere,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Lavoro', u'POLITICHE', u'Questioni di genere']",,,"{""Nome"": ""Riccardo Nencini"", ""Nome fonte"": ""Profilo Twitter"", ""data"": ""28/01/2018"", ""dichiarazione"": ""La prima battaglia politica che faremo in Parlamento, sar\u00e0 quella sulla parit\u00e0 di trattamento economico tra uomini e donne. @insieme2018"", ""id"": ""24612411"", ""unapromessaID"": """", ""urlfonte"": ""https://twitter.com/partsocialista/status/955106833269776384""}","<pre><yamldata>Nome: 'Riccardo Nencini'
+data: 28/01/2018
+Nome fonte: 'Profilo Twitter'
+urlfonte: 'https://twitter.com/partsocialista/status/955106833269776384'
+dichiarazione: 'La prima battaglia politica che faremo in Parlamento, sarà quella sulla parità di trattamento economico tra uomini e donne. @insieme2018'
+id: '24612411'
+unapromessaID: ''
+</yamldata></pre>",open
+https://github.com/HackForItaly/politicamentecorretto_data/issues/122,292216558,2018-01-28 16:31:38,2018-01-28 16:15:05,Le promesse elettorali di #ArturoScotto #LeU sulla sanità: abolire il superticket ,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Sanit\xe0']",,,"{""Nome"": ""Arturo Scotto"", ""Nome fonte"": ""Profilo Twitter"", ""data"": ""28/01/2018"", ""dichiarazione"": ""Nel 2017 12,2 milioni di persone hanno rinunciato alle cure per difficolt\u00e0 economiche. Oltre 1 milione e mezzo nella sola #Campania. A farne le spese come sempre i pi\u00f9 deboli. Con @liberi_uguali vogliamo recuperare il concetto di #sanit\u00e0 universale. Il superticket va abolito!"", ""id"": ""24612322"", ""unapromessaID"": ""UQ3624592"", ""urlfonte"": ""https://twitter.com/arturo_scotto/status/955759863694528512""}","<pre><yamldata>Nome: 'Arturo Scotto'
+data: 28/01/2018
+Nome fonte: 'Profilo Twitter'
+urlfonte: 'https://twitter.com/arturo_scotto/status/955759863694528512'
+dichiarazione: 'Nel 2017 12,2 milioni di persone hanno rinunciato alle cure per difficoltà economiche. Oltre 1 milione e mezzo nella sola #Campania. A farne le spese come sempre i più deboli. Con @liberi_uguali vogliamo recuperare il concetto di #sanità universale. Il superticket va abolito!'
+id: '24612322'
+unapromessaID: 'UQ3624592'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/121,292215770,2018-01-28 16:09:25,2018-01-28 16:05:04,Le promesse elettorali di #ArturoScotto #LeU su imprese e delocalizzazione,,,"[u'ACCETTATO', u'ANNO_2018', u'Economia', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Arturo Scotto"", ""Nome fonte"": ""Profilo Twitter"", ""data"": ""28/01/2018"", ""dichiarazione"": ""Nel prossimo Parlamento ci vuole una #sinistra forte che cancelli le leggi sbagliate fatte in questi anni. Le aziende hanno ricevuto 20 MILIARDI di euro, per poi delocalizzare. Noi proponiamo una legge semplice, che dice che chi delocalizza restituisce i soldi."", ""id"": ""24612232"", ""unapromessaID"": ""UQ3624592"", ""urlfonte"": ""https://twitter.com/arturo_scotto/status/956983139959754757""}","<pre><yamldata>Nome: 'Arturo Scotto'
 data: 28/01/2018
 Nome fonte: 'Profilo Twitter'
