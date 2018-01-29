@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/127,292370184,2018-01-29 13:34:15,2018-01-29 11:20:05,Le promesse elettorali di Matteo #Salvini #Lega sulle sigarette elettroniche,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Fiscalit\xe0', u'Varie']",,,"{""Nome"": ""Matteo Salvini"", ""Nome fonte"": ""Profilo Twitter"", ""data"": ""29/01/2018"", ""dichiarazione"": ""Con il governo Salvini VIA le assurde nuove tasse sulle sigarette elettroniche!"", ""id"": ""24631259"", ""unapromessaID"": ""UQ1055449"", ""urlfonte"": ""https://twitter.com/matteosalvinimi/status/957932306727145472""}","<pre><yamldata>Nome: 'Matteo Salvini'
+data: 29/01/2018
+Nome fonte: 'Profilo Twitter'
+urlfonte: 'https://twitter.com/matteosalvinimi/status/957932306727145472'
+dichiarazione: 'Con il governo Salvini VIA le assurde nuove tasse sulle sigarette elettroniche!'
+id: '24631259'
+unapromessaID: 'UQ1055449'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/126,292352167,2018-01-29 11:14:44,2018-01-29 10:20:05,Le promesse elettorali di Matteo #Renzi #PD su lavoro e salari: no a salario orario inferiore a 9 euro,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Lavoro', u'POLITICHE']",,,"{""Nome"": ""Matteo Renzi"", ""Nome fonte"": ""Partito Democratico"", ""data"": ""29/01/2018"", ""dichiarazione"": ""\""Dopo aver lavorato sulla quantit\u00e0 dei posti di lavoro, dedicheremo la prossima legislatura a migliorare la qualit\u00e0. Nel nostro programma abbiamo inserito il salario minimo garantito per chi ha lavori precari o saltuari: nessuno potr\u00e0 ricevere un salario orario inferiore ai nove euro l'ora. \u00c8 un passo in avanti piccolo ma concreto, \u00e8 una garanzia per chi oggi non riesce ad arrivare alla fine del mese. \u00c8 una questione di giustizia sociale: il PD deve pensare pi\u00f9 agli ultimi che a chi i soldi ce li ha gi\u00e0.\"""", ""id"": ""24629088"", ""unapromessaID"": ""UQ47563"", ""urlfonte"": ""https://www.facebook.com/partitodemocratico.it/videos/10155608386841896/?multi_permalinks=1648642458534689%2C1648596421872626&notif_id=1517216629606556&notif_t=group_activity""}","<pre><yamldata>Nome: 'Matteo Renzi'
 data: 29/01/2018
 Nome fonte: 'Partito Democratico'
