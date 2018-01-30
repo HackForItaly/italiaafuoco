@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/129,292754314,2018-01-30 13:04:36,2018-01-30 11:50:05,Le promesse elettorali di #GiulioMarcon #LeU su cancellazione del programma degli F35,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Varie']",,,"{""Nome"": ""Giulio Marcon"", ""Nome fonte"": ""Profilo Twitter"", ""data"": ""30/01/2018"", ""dichiarazione"": ""Se dovessi essere eletto per @liberi_uguali, il primo atto che depositer\u00f2 in parlamento sar\u00e0 una mozione per cancellare il programma degli #F35."", ""id"": ""24668722"", ""unapromessaID"": ""UQ7217712"", ""urlfonte"": ""https://twitter.com/GiulioMarcon1/status/957977786412658693""}","<pre><yamldata>Nome: 'Giulio Marcon'
+data: 30/01/2018
+Nome fonte: 'Profilo Twitter'
+urlfonte: 'https://twitter.com/GiulioMarcon1/status/957977786412658693'
+dichiarazione: 'Se dovessi essere eletto per @liberi_uguali, il primo atto che depositerò in parlamento sarà una mozione per cancellare il programma degli #F35.'
+id: '24668722'
+unapromessaID: 'UQ7217712'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/127,292370184,2018-01-29 13:34:15,2018-01-29 11:20:05,Le promesse elettorali di Matteo #Salvini #Lega sulle sigarette elettroniche,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Fiscalit\xe0', u'Varie']",,,"{""Nome"": ""Matteo Salvini"", ""Nome fonte"": ""Profilo Twitter"", ""data"": ""29/01/2018"", ""dichiarazione"": ""Con il governo Salvini VIA le assurde nuove tasse sulle sigarette elettroniche!"", ""id"": ""24631259"", ""unapromessaID"": ""UQ1055449"", ""urlfonte"": ""https://twitter.com/matteosalvinimi/status/957932306727145472""}","<pre><yamldata>Nome: 'Matteo Salvini'
 data: 29/01/2018
 Nome fonte: 'Profilo Twitter'
