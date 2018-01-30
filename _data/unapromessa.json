@@ -6276,7 +6276,7 @@
     "wikidata": "Q15632210",
     "unapromessaID": "UQ15632210",
     "twitter": "stefanolepri",
-    "nome": "Stefano Lepri",
+    "nome": null,
     "wikipediaIT": "https://it.wikipedia.org/wiki/Stefano_Lepri_(politico)",
     "immagine": "http://www.stefanolepri.it/wp-content/uploads/2012/01/consigliere-regionale-891x1024.jpg",
     "idItalia": null
@@ -6320,10 +6320,19 @@
   {
     "wikidata": null,
     "unapromessaID": "U704",
-    "twitter": "@LAnnibali ‏",
+    "twitter": "LAnnibali ‏",
     "nome": "lucia annibali",
     "wikipediaIT": null,
     "immagine": "https://pbs.twimg.com/profile_images/934872794776600576/3WKOEbUF_400x400.jpg",
+    "idItalia": null
+  },
+  {
+    "wikidata": "Q3765391",
+    "unapromessaID": "UQ3765391",
+    "twitter": "CremaschiG",
+    "nome": "Giorgio Cremaschi",
+    "wikipediaIT": "https://it.wikipedia.org/wiki/Giorgio_Cremaschi",
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Giorgio_Cremaschi_%282013%29.png/200px-Giorgio_Cremaschi_%282013%29.png",
     "idItalia": null
   }
 ]
