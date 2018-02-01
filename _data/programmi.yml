@@ -2,39 +2,163 @@
   link: http://www.lombardia5stelle.it/wp-content/uploads/2017/11/Programma-M5S-Lombardia_2.pdf
   evento: Elezioni Regionali 2018
   amministrazione: Lombardia
-- partito: 10 Volte Meglio
-  link: http://www.diecivoltemeglio.com/programma
-  evento: Elezioni Politiche 2018
-  amministrazione: Governo Nazionale
-- partito: Potere al Popolo
-  link: https://poterealpopolo.org/potere-al-popolo/programma/
-  evento: Elezioni Politiche 2018
-  amministrazione: Governo Nazionale
-- partito: Più Europa
-  link: https://piueuropa.eu/programma/
-  evento: Elezioni Politiche 2018
-  amministrazione: Governo Nazionale
-- partito: Centro destra
-  link: http://www.forza-italia.it/speciali/Programma_centrodestra_condiviso_10_PUNTI.pdf
-  evento: Elezioni Politiche 2018
-  amministrazione: Governo Nazionale
 - partito: Movimento 5 Stelle
   link: http://www.lazio5stelle.it/programma/
   evento: Elezioni Regionali 2018 
   amministrazione: Lazio
-- partito: Energie per l'Italia
-  link: https://s3-eu-west-1.amazonaws.com/prod-per-fe/wp-content/uploads/2017/12/Programma-governo.pdf
+- partito: MAIE-MOVIMENTO ASSOCIATIVO ITALIANI ALL'ESTERO
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/1/1_Prog_Elettorale.pdf
   evento: Elezioni Politiche 2018
   amministrazione: Governo Nazionale
-- partito: Liberi e Uguali
-  link: http://liberieuguali.it/programma/
-  evento: Elezioni Politiche 2018
-  amministrazione: Governo Nazionale
-- partito: Partito Democratico
-  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/98/98_Prog_Elettorale.pdf
-  evento: Elezioni Politiche 2018
-  amministrazione: Governo Nazionale
-- partito: Movimento 5 stelle
+- partito: MOVIMENTO 5 STELLE
   link: http://dait.interno.gov.it/documenti/trasparenza/Doc/4/4_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: LEGA NORD
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/5/5_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: CASAPOUND ITALIA
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/6/6_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: 10 VOLTE MEGLIO
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/7/7_Progr_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: SIAMO
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/8/8_Progr_Eelettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: DEMOCRAZIA CRISTIANA
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/9/9_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: CONFEDERAZIONE GRANDE NORD
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/11/11_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: potere al popolo!
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/13/13_Progr_elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: ITALIA EUROPA INSIEME
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/14/14_Progr_Politico.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: ITALIA EUROPA INSIEME
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/14A/14_Progr_Politico.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: ITALIA EUROPA INSIEME
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/14B/14_Progr_Politico.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: IL POPOLO DELLA FAMIGLIA
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/17/17_Prog_elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: Per una Sinistra Rivoluzionaria
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/19/19_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: DESTRE UNITE -  AEMN
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/20/20_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: UNIONE IMPRENDITORI E LAVORATORI SOCIALISTI - U.I.L.S.
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/21/21_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: PPA MOVIMENTO POLITICO PENSIERO AZIONE
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/24/24_Progr_Politico.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: PARTITO VALORE UMANO
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/28/28_Programma.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: '"SMS" ( STATO MODERNO SOLIDALE)'
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/29/29_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: MOVIMENTO POLITICO ITALIA NEL CUORE
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/30/30_Prog__Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: SUDTIROLER VOLKSPARTEI (SVP)
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/32/32_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: ITALIA AGLI ITALIANI
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/37/37_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: Movimento Politico PATTO PER L'AUTONOMIA
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/44/44_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: PARTITO COMUNISTA
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/46/46_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: LIBERI E UGUALI
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/47/47_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: LIBERI E UGUALI
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/47A/47_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: MOVIMENTO POLITICO FORZA ITALIA
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/52/52_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: MIR ITALIA
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/56/56_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: LISTA DEL POPOLO PER LA COSTITUZIONE
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/58/58_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: NOI CON L'ITALIA - UDC
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/62/62_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: ASSOCIAZIONE "+EUROPA"
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/63/63_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: FRONTE FRIULANO - FRONT FURLAN
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/69/69_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: AUTODETERMINATZIONE
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/71/71_Prog_Elettorale.PDF
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: CIVICA POPOLARE LORENZIN
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/76/76_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: ORA - RISPETTO PER TUTTI GLI ANIMALI
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/83/83_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: PARTITO REPUBBLICANO ITALIANO-ALA
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/84/84_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: BLOCCO NAZIONALE PER LE LIBERTA'
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/85/85_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: FRATELLI D'ITALIA CON GIORGIA MELONI
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/97/97_Prog_Elettorale.pdf
+  evento: Elezioni Politiche 2018
+  amministrazione: Governo Nazionale
+- partito: PARTITO DEMOCRATICO
+  link: http://dait.interno.gov.it/documenti/trasparenza/Doc/98/98_Prog_Elettorale.pdf
   evento: Elezioni Politiche 2018
   amministrazione: Governo Nazionale
