@@ -22,7 +22,9 @@ description: Un progetto per raccogliere le promesse dei politici italiani
 # List of links in the navigation bar
 navbar-links:
   Segnala: "https://enketo.ona.io/x/#pYFo"
-  Promesse Elettorali: "promessa/"
+  Promesse Elettorali:
+     - Ultime Promesse: "last/"
+     - Promesse per categoria: "promessa/"
 #  Mappe: "mappe/"
 #  FOIA: "foia/"
   Elezioni:
