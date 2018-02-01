@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/135,293533633,2018-02-01 15:04:33,2018-02-01 13:40:05,Le promesse elettorali di Guido #Crosetto #FdI sui truffati dalle banche,,,"[u'ACCETTATO', u'Economia', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Guido Crosetto"", ""Nome fonte"": ""Profilo Twitter"", ""data"": ""01/02/2018"", ""dichiarazione"": ""I truffati dalle banche vanno risarciti con titoli di stato, a durata pluriennale, ma immediatamente monetizzabili sul mercato in caso di necessit\u00e0."", ""id"": ""24764682"", ""unapromessaID"": ""UQ3119423"", ""urlfonte"": ""https://twitter.com/GuidoCrosetto/status/958989958852890624""}","<pre><yamldata>Nome: 'Guido Crosetto'
+data: 01/02/2018
+Nome fonte: 'Profilo Twitter'
+urlfonte: 'https://twitter.com/GuidoCrosetto/status/958989958852890624'
+dichiarazione: 'I truffati dalle banche vanno risarciti con titoli di stato, a durata pluriennale, ma immediatamente monetizzabili sul mercato in caso di necessità.'
+id: '24764682'
+unapromessaID: 'UQ3119423'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/134,292951859,2018-01-30 22:12:19,2018-01-30 21:55:05,Le promesse elettorali di Giorgio #Cremaschi #PoterealPopolo su Banca d'Italia ed economia,,,"[u'ACCETTATO', u'ANNO_2018', u'Economia', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Giorgio Cremaschi"", ""Nome fonte"": ""L'Antidiplomatico"", ""data"": ""30/01/2018"", ""dichiarazione"": ""Il nostro programma economico pone al centro la nazionalizzazione della Banca d\u2019Italia, la modifica dell'art. 81 della Costituzione che ha introdotto il pareggio di bilancio e il ritorno ad un forte controllo pubblico dell\u2019economia."", ""id"": ""24692682"", ""unapromessaID"": ""UQ3765391"", ""urlfonte"": ""http://www.lantidiplomatico.it/dettnews-giorgio_cremaschi_potere_al_popolo__lunica_forza_politica_che_ha_in_programma_la_rottura_con_lunione_europea_e_la_nato/5496_22834/""}","<pre><yamldata>Nome: 'Giorgio Cremaschi'
 data: 30/01/2018
 Nome fonte: 'L''Antidiplomatico'
