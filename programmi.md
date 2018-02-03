@@ -5,7 +5,7 @@ permalink: /programmi/
 share-img: "http://www.unapromessa.it/logo.png"
 ---
 
-In tabella troverete tutti i riferimenti ai programmi elettorali raccolti da questo progetto. Se vuoi consultarli online o in formato ebook o testuale puoi consultarli anche sulla nostra sezione su [Archive](https://archive.org/details/elezioni2018). Se invece vuoi cercare all'interno dei programmi puoi accedere a alla [pagina di ricerca](https://www.unapromessa.it/programmi_search/)
+In tabella troverete tutti i riferimenti ai programmi elettorali raccolti da questo progetto. Se vuoi consultarli online o in formato ebook o testuale puoi consultarli anche sulla nostra sezione su [Archive](https://archive.org/details/elezioni2018). Se invece vuoi cercare all'interno dei programmi puoi accedere a questa [pagina di ricerca](https://www.unapromessa.it/programmi_search/).
 
 {% assign programmigroupevento = site.data.programmi | group_by: "evento" %}
 
