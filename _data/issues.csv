@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/138,293996325,2018-02-03 22:39:43,2018-02-02 19:25:05,Le promesse elettorali di Matteo #Renzi #Pd ai lavoratori con partita iva,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Lavoro', u'POLITICHE']",,,"{""Nome"": ""Matteo Renzi"", ""Nome fonte"": ""Fanpage"", ""data"": ""02/02/2018"", ""dichiarazione"": ""Il segretario del PD promette di estendere gli 80 euro anche alle Partite IVA."", ""id"": ""24820992"", ""unapromessaID"": ""UQ47563"", ""urlfonte"": ""https://www.fanpage.it/renzi-80-euro-al-mese-per-ogni-figlio-fino-ai-18-anni-e-li-estenderemo-anche-alle-partite-iva/""}","<pre><yamldata>Nome: 'Matteo Renzi'
+data: 02/02/2018
+Nome fonte: 'Fanpage'
+urlfonte: 'https://www.fanpage.it/renzi-80-euro-al-mese-per-ogni-figlio-fino-ai-18-anni-e-li-estenderemo-anche-alle-partite-iva/'
+dichiarazione: 'Il segretario del PD promette di estendere gli 80 euro anche alle Partite IVA.'
+id: '24820992'
+unapromessaID: 'UQ47563'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/137,293887275,2018-02-02 13:28:08,2018-02-02 13:25:04,Le promesse elettorali di #MicheleCivita #Pd per la sanità in #Lazio,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Lazio', u'REGIONALI', u'Sanit\xe0']",,,"{""Nome"": ""Michele Civita"", ""Nome fonte"": ""Agenzia Dire"", ""data"": ""02/02/2018"", ""dichiarazione"": ""In questi anni si \u00e8 superato il deficit accumulato e il disavanzo, che ogni anno sbilanciavano la sanit\u00e0 nel Lazio. Si \u00e8 fatto con una politica di risanamento serio, con nuove regole e programmando il futuro. Con la fine del commissariamento, secondo l\u2019assessore, si pu\u00f2 aprire una pagina nuova per la sanit\u00e0 del Lazio, affrontando i problemi delle liste d\u2019attesa, dell\u2019utilizzo pieno e della modernizzazione delle nostre strutture sanitarie. Oltre alla stabilizzazione di 700 precari e assunzioni fino a 3.500 nuovi lavoratori."", ""id"": ""24809446"", ""unapromessaID"": """", ""urlfonte"": ""http://www.dire.it/02-02-2018/170062-civita-stop-sprechi-e-nuovi-investimenti-abbiamo-risanato-il-lazio/""}","<pre><yamldata>Nome: 'Michele Civita'
 data: 02/02/2018
 Nome fonte: 'Agenzia Dire'
