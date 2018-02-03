@@ -1,4 +1,28 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/152,294099988,2018-02-03 23:19:28,2018-02-03 10:10:05,Le promesse elettorali di Matteo #Renzi #Pd su mobilità sostenibile,,,"[u'ACCETTATO', u'ANNO_2018', u'Ambiente e territorio', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Matteo Renzi"", ""Nome fonte"": ""Rai news"", ""data"": ""03/02/2018"", ""dichiarazione"": ""Nel programma Pd presentato ieri da Renzi previste anche misure green. Nella pubblica amministrazione punta a cambiare le auto blu in auto verdi, tutte elettriche. Tra i 100 punti anche l'aumento delle piste ciclabili e la realizzazione di 4 ciclovie nazionali."", ""id"": ""24832183"", ""unapromessaID"": ""UQ47563"", ""urlfonte"": ""http://www.rainews.it/dl/rainews/articoli/Da-Pil-oltre-2-per-cento-a-240-euro-a-famiglie-con-figli-il-programma-Pd-4a2458e3-a582-486a-a621-7a3c401bfc74.html?refresh_ce""}","<pre><yamldata>Nome: 'Matteo Renzi'
+data: 03/02/2018
+Nome fonte: 'Rai news'
+urlfonte: 'http://www.rainews.it/dl/rainews/articoli/Da-Pil-oltre-2-per-cento-a-240-euro-a-famiglie-con-figli-il-programma-Pd-4a2458e3-a582-486a-a621-7a3c401bfc74.html?refresh_ce'
+dichiarazione: 'Nel programma Pd presentato ieri da Renzi previste anche misure green. Nella pubblica amministrazione punta a cambiare le auto blu in auto verdi, tutte elettriche. Tra i 100 punti anche l''aumento delle piste ciclabili e la realizzazione di 4 ciclovie nazionali.'
+id: '24832183'
+unapromessaID: 'UQ47563'
+</yamldata></pre>",open
+https://github.com/HackForItaly/politicamentecorretto_data/issues/151,294099729,2018-02-03 23:17:58,2018-02-03 10:05:10,Le promesse elettorali di Matteo #Renzi #Pd su sicurezza e forze dell'ordine,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Sicurezza']",,,"{""Nome"": ""Matteo Renzi"", ""Nome fonte"": ""Rai news"", ""data"": ""03/02/2018"", ""dichiarazione"": ""Nel programma Pd presentato ieri a Bologna da Renzi previste anche 10mila assunzioni di forze dell'ordine \""per aumentare la presenza capillare sul territorio e la percezione effettiva della sicurezza\"". Previsto anche il finanziamento di 50.000 nuove videocamere di sorveglianza."", ""id"": ""24832119"", ""unapromessaID"": ""UQ47563"", ""urlfonte"": ""http://www.rainews.it/dl/rainews/articoli/Da-Pil-oltre-2-per-cento-a-240-euro-a-famiglie-con-figli-il-programma-Pd-4a2458e3-a582-486a-a621-7a3c401bfc74.html""}","<pre><yamldata>Nome: 'Matteo Renzi'
+data: 03/02/2018
+Nome fonte: 'Rai news'
+urlfonte: 'http://www.rainews.it/dl/rainews/articoli/Da-Pil-oltre-2-per-cento-a-240-euro-a-famiglie-con-figli-il-programma-Pd-4a2458e3-a582-486a-a621-7a3c401bfc74.html'
+dichiarazione: 'Nel programma Pd presentato ieri a Bologna da Renzi previste anche 10mila assunzioni di forze dell''ordine ""per aumentare la presenza capillare sul territorio e la percezione effettiva della sicurezza"". Previsto anche il finanziamento di 50.000 nuove videocamere di sorveglianza.'
+id: '24832119'
+unapromessaID: 'UQ47563'
+</yamldata></pre>",open
+https://github.com/HackForItaly/politicamentecorretto_data/issues/150,294099728,2018-02-03 23:16:20,2018-02-03 10:05:07,Le promesse elettorali di Matteo #Renzi #Pd su cultura e musei,,,"[u'ACCETTATO', u'ANNO_2018', u'Arte e cultura', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Matteo Renzi"", ""Nome fonte"": ""Rai News"", ""data"": ""03/02/2018"", ""dichiarazione"": ""Nel 'pacchetto cultura' inserito nel programma Pd presentato ieri da Matteo Renzi l'ampliamento dell'art bonus, ma anche l'apertura dei musei sempre fino a mezzanotte e incentivi alle imprese culturali e creative che investono nell'innovazione."", ""id"": ""24832104"", ""unapromessaID"": ""UQ47563"", ""urlfonte"": ""http://www.rainews.it/dl/rainews/articoli/Da-Pil-oltre-2-per-cento-a-240-euro-a-famiglie-con-figli-il-programma-Pd-4a2458e3-a582-486a-a621-7a3c401bfc74.html""}","<pre><yamldata>Nome: 'Matteo Renzi'
+data: 03/02/2018
+Nome fonte: 'Rai News'
+urlfonte: 'http://www.rainews.it/dl/rainews/articoli/Da-Pil-oltre-2-per-cento-a-240-euro-a-famiglie-con-figli-il-programma-Pd-4a2458e3-a582-486a-a621-7a3c401bfc74.html'
+dichiarazione: 'Nel ''pacchetto cultura'' inserito nel programma Pd presentato ieri da Matteo Renzi l''ampliamento dell''art bonus, ma anche l''apertura dei musei sempre fino a mezzanotte e incentivi alle imprese culturali e creative che investono nell''innovazione.'
+id: '24832104'
+unapromessaID: 'UQ47563'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/149,294099725,2018-02-03 22:43:21,2018-02-03 10:05:04,Le promesse elettorali di Nicola #Fratoianni #Leu sulle banche,,,"[u'ACCETTATO', u'ANNO_2018', u'Economia', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Nicola Fratoianni"", ""Nome fonte"": ""https://twitter.com/NFratoianni/status/958285067369025536"", ""data"": ""03/02/2018"", ""dichiarazione"": ""#banche Hanno voluto fare commissione d\u2019inchiesta parlamentare solo negli ultimi momenti della legislatura. Occorrer\u00e0 dopo le elezioni una nuova commissione d\u2019inchiesta che continui a fare luce sui guasti del sistema bancario."", ""id"": ""24832079"", ""unapromessaID"": ""UQ16582388"", ""urlfonte"": ""Profilo Twitter""}","<pre><yamldata>Nome: 'Nicola Fratoianni'
 data: 03/02/2018
 Nome fonte: 'https://twitter.com/NFratoianni/status/958285067369025536'
@@ -7,13 +31,13 @@ dichiarazione: '#banche Hanno voluto fare commissione d’inchiesta parlamentare
 id: '24832079'
 unapromessaID: 'UQ16582388'
 </yamldata></pre>",open
-https://github.com/HackForItaly/politicamentecorretto_data/issues/148,294099457,2018-02-03 23:14:43,2018-02-03 10:00:13,Le promesse elettorali di Matteo #Renzi #Pd su costo del lavoro e imprese,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Fiscalit\xe0', u'POLITICHE']",,,"{""Nome"": ""Matteo Renzi"", ""Nome fonte"": ""Sole 24 ore"", ""data"": ""03/02/2018"", ""dichiarazione"": ""Nel programma Pd l\u2019impegno a ridurre il costo del lavoro per il tempo indeterminato di un punto all\u2019anno per quattro anni (dal 33% al 29%), cos\u00ec come quello a ridurre l\u2019Ires e l\u2019Iri per le piccole imprese fino al 22%."", ""id"": ""24832014"", ""unapromessaID"": """", ""urlfonte"": ""http://amp.ilsole24ore.com/pagina/AE3b0jtD""}","<pre><yamldata>Nome: 'Matteo Renzi'
+https://github.com/HackForItaly/politicamentecorretto_data/issues/148,294099457,2018-02-03 23:15:08,2018-02-03 10:00:13,Le promesse elettorali di Matteo #Renzi #Pd su costo del lavoro e imprese,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Fiscalit\xe0', u'POLITICHE']",,,"{""Nome"": ""Matteo Renzi"", ""Nome fonte"": ""Sole 24 ore"", ""data"": ""03/02/2018"", ""dichiarazione"": ""Nel programma Pd l\u2019impegno a ridurre il costo del lavoro per il tempo indeterminato di un punto all\u2019anno per quattro anni (dal 33% al 29%), cos\u00ec come quello a ridurre l\u2019Ires e l\u2019Iri per le piccole imprese fino al 22%."", ""id"": ""24832014"", ""unapromessaID"": ""UQ47563"", ""urlfonte"": ""http://amp.ilsole24ore.com/pagina/AE3b0jtD""}","<pre><yamldata>Nome: 'Matteo Renzi'
 data: 03/02/2018
 Nome fonte: 'Sole 24 ore'
 urlfonte: 'http://amp.ilsole24ore.com/pagina/AE3b0jtD'
 dichiarazione: 'Nel programma Pd l’impegno a ridurre il costo del lavoro per il tempo indeterminato di un punto all’anno per quattro anni (dal 33% al 29%), così come quello a ridurre l’Ires e l’Iri per le piccole imprese fino al 22%.'
 id: '24832014'
-unapromessaID: ''
+unapromessaID: 'UQ47563'
 </yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/146,294099446,2018-02-03 23:13:04,2018-02-03 10:00:08,Le promesse elettorali di Matteo Renzi #Pd su detrazioni fiscali per gli under 30,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Fiscalit\xe0', u'POLITICHE']",,,"{""Nome"": ""Matteo Renzi"", ""Nome fonte"": ""Sole 24 ore"", ""data"": ""03/02/2018"", ""dichiarazione"": ""Nel programma del Pd Matteo Renzi conferma la misura anti-bamboccioni: una detrazione fiscale di 150 euro (assegno per gli incapienti) a beneficio degli under 30 con un reddito fino a 30mila euro e con un contratto d\u2019affitto sulle spalle."", ""id"": ""24832010"", ""unapromessaID"": ""UQ47563"", ""urlfonte"": ""http://www.ilsole24ore.com/art/notizie/2018-02-02/taglio-cuneo-e-patente-fiscale-215922.shtml?uuid=AE3b0jtD""}","<pre><yamldata>Nome: 'Matteo Renzi'
 data: 03/02/2018
