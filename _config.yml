@@ -43,7 +43,7 @@ navbar-links:
   Blog: "post/"
 #    - Storie: "storie/"
   Utilità:
-    - Programmi elettorali: "https://archive.org/details/elezioni2018"
+    - Programmi elettorali: "programmi/"
     - Link utili: "link_utili/"
     - Opendata: "opendata/"
   Il Progetto:
