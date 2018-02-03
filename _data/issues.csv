@@ -7,6 +7,22 @@ dichiarazione: '#banche Hanno voluto fare commissione d’inchiesta parlamentare
 id: '24832079'
 unapromessaID: 'UQ16582388'
 </yamldata></pre>",open
+https://github.com/HackForItaly/politicamentecorretto_data/issues/145,294099442,2018-02-03 23:09:52,2018-02-03 10:00:05,Le promesse elettorali di Matteo #Renzi #Pd sul debito pubblico,,,"[u'ACCETTATO', u'ANNO_2018', u'Economia', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Matteo Renzi"", ""Nome fonte"": ""La Repubblica"", ""data"": ""03/02/2018"", ""dichiarazione"": ""Presentando il programma del Pd Matteo Renzi ha dichiarato: \""quanto al rapporto debito-Pil, vogliamo raggiungere il 100 per cento del rapporto nei prossimi 10 anni. Lo facciamo non perch\u00e9 ce lo chiede un burocrate dell'Europa ma lo facciamo per i nostri figli\""."", ""id"": ""24832008"", ""unapromessaID"": ""UQ47563"", ""urlfonte"": ""http://www.repubblica.it/politica/2018/02/02/news/pd_programma_elettorale_matteo_renzi-187887650/""}","<pre><yamldata>Nome: 'Matteo Renzi'
+data: 03/02/2018
+Nome fonte: 'La Repubblica'
+urlfonte: 'http://www.repubblica.it/politica/2018/02/02/news/pd_programma_elettorale_matteo_renzi-187887650/'
+dichiarazione: 'Presentando il programma del Pd Matteo Renzi ha dichiarato: ""quanto al rapporto debito-Pil, vogliamo raggiungere il 100 per cento del rapporto nei prossimi 10 anni. Lo facciamo non perché ce lo chiede un burocrate dell''Europa ma lo facciamo per i nostri figli"".'
+id: '24832008'
+unapromessaID: 'UQ47563'
+</yamldata></pre>",open
+https://github.com/HackForItaly/politicamentecorretto_data/issues/144,294098713,2018-02-03 23:08:48,2018-02-03 09:45:13,Le promesse elettorali di Matteo #Renzi #Pd su lavoro: disoccupazione sotto il 9 per cento,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Lavoro', u'POLITICHE']",,,"{""Nome"": ""Matteo Renzi"", ""Nome fonte"": ""La Repubblica"", ""data"": ""03/02/2018"", ""dichiarazione"": ""\""Il nostro obiettivo \u00e8 scendere sotto il 9 per cento di disoccupazione nella prossima legislatura\"", ha ancora aggiunto il segretario Pd. \""Vogliamo scendere sotto il 20 per cento di disoccupati giovanili nella prossima legislatura\"", ha aggiunto sottolineando: \""Vogliamo raggiungere i 24 milioni di occupati nella prossima legislatura\""."", ""id"": ""24831628"", ""unapromessaID"": ""UQ47563"", ""urlfonte"": ""http://www.repubblica.it/politica/2018/02/02/news/pd_programma_elettorale_matteo_renzi-187887650/""}","<pre><yamldata>Nome: 'Matteo Renzi'
+data: 03/02/2018
+Nome fonte: 'La Repubblica'
+urlfonte: 'http://www.repubblica.it/politica/2018/02/02/news/pd_programma_elettorale_matteo_renzi-187887650/'
+dichiarazione: '""Il nostro obiettivo è scendere sotto il 9 per cento di disoccupazione nella prossima legislatura"", ha ancora aggiunto il segretario Pd. ""Vogliamo scendere sotto il 20 per cento di disoccupati giovanili nella prossima legislatura"", ha aggiunto sottolineando: ""Vogliamo raggiungere i 24 milioni di occupati nella prossima legislatura"".'
+id: '24831628'
+unapromessaID: 'UQ47563'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/143,294098710,2018-02-03 23:02:33,2018-02-03 09:45:11,Le promesse elettorali di Matteo #Renzi #Pd su canone Rai,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Fiscalit\xe0', u'POLITICHE']",,,"{""Nome"": ""Matteo Renzi"", ""Nome fonte"": ""La Repubblica"", ""data"": ""03/02/2018"", ""dichiarazione"": ""Abbiamo abbassato il costo del Canone Rai da 113 euro a 90 euro attraverso l'inserimento del canone in bolletta e la lotta all'evasione. Vogliamo scendere ulteriormente garantendo la qualit\u00e0 del servizio pubblico ma azzerando il canone alle categorie meno abbienti."", ""id"": ""24831627"", ""unapromessaID"": ""UQ47563"", ""urlfonte"": ""http://www.repubblica.it/politica/2018/02/02/news/pd_programma_elettorale_matteo_renzi-187887650/""}","<pre><yamldata>Nome: 'Matteo Renzi'
 data: 03/02/2018
 Nome fonte: 'La Repubblica'
