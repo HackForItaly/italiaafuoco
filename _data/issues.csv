@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/149,294099725,2018-02-03 22:43:21,2018-02-03 10:05:04,Le promesse elettorali di Nicola #Fratoianni #Leu sulle banche,,,"[u'ACCETTATO', u'ANNO_2018', u'Economia', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Nicola Fratoianni"", ""Nome fonte"": ""https://twitter.com/NFratoianni/status/958285067369025536"", ""data"": ""03/02/2018"", ""dichiarazione"": ""#banche Hanno voluto fare commissione d\u2019inchiesta parlamentare solo negli ultimi momenti della legislatura. Occorrer\u00e0 dopo le elezioni una nuova commissione d\u2019inchiesta che continui a fare luce sui guasti del sistema bancario."", ""id"": ""24832079"", ""unapromessaID"": ""UQ16582388"", ""urlfonte"": ""Profilo Twitter""}","<pre><yamldata>Nome: 'Nicola Fratoianni'
+data: 03/02/2018
+Nome fonte: 'https://twitter.com/NFratoianni/status/958285067369025536'
+urlfonte: 'Profilo Twitter'
+dichiarazione: '#banche Hanno voluto fare commissione d’inchiesta parlamentare solo negli ultimi momenti della legislatura. Occorrerà dopo le elezioni una nuova commissione d’inchiesta che continui a fare luce sui guasti del sistema bancario.'
+id: '24832079'
+unapromessaID: 'UQ16582388'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/138,293996325,2018-02-03 22:39:43,2018-02-02 19:25:05,Le promesse elettorali di Matteo #Renzi #Pd ai lavoratori con partita iva,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Lavoro', u'POLITICHE']",,,"{""Nome"": ""Matteo Renzi"", ""Nome fonte"": ""Fanpage"", ""data"": ""02/02/2018"", ""dichiarazione"": ""Il segretario del PD promette di estendere gli 80 euro anche alle Partite IVA."", ""id"": ""24820992"", ""unapromessaID"": ""UQ47563"", ""urlfonte"": ""https://www.fanpage.it/renzi-80-euro-al-mese-per-ogni-figlio-fino-ai-18-anni-e-li-estenderemo-anche-alle-partite-iva/""}","<pre><yamldata>Nome: 'Matteo Renzi'
 data: 02/02/2018
 Nome fonte: 'Fanpage'
