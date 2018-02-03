@@ -5,7 +5,7 @@ permalink: /programmi/
 share-img: "http://www.unapromessa.it/logo.png"
 ---
 
-In tabella troverete tutti i riferimenti ai programmi elettorali raccolti da questo progetto. Se vuoi consultarli online o in formato ebook o testuale puoi consultarli anche sulla nostra sezione su [Archive](https://archive.org/details/elezioni2018). Se invece vuoi cercare all'interno dei programmi puoi accedere a questa [pagina di ricerca](https://www.unapromessa.it/programmi_search/).
+In tabella trovi i riferimenti per accedere ai programmi elettorali raccolti da questo progetto per le elezioni regionali e politiche 2018. I link ai programmi per le elezioni politiche rimandano al sito del Viminale dove per legge devono essere pubblicati. Se vuoi consultarli in formato ebook o testuale puoi farlo visitando la sezione dedicata che abbiamo aperto su [Archive](https://archive.org/details/elezioni2018). Se invece vuoi effettuare una ricerca per parole all'interno dei programmi puoi accedere a questa [pagina di ricerca](https://www.unapromessa.it/programmi_search/).
 
 {% assign programmigroupevento = site.data.programmi | group_by: "evento" %}
 
