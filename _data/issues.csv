@@ -7,6 +7,14 @@ dichiarazione: '#banche Hanno voluto fare commissione d’inchiesta parlamentare
 id: '24832079'
 unapromessaID: 'UQ16582388'
 </yamldata></pre>",open
+https://github.com/HackForItaly/politicamentecorretto_data/issues/143,294098710,2018-02-03 23:02:33,2018-02-03 09:45:11,Le promesse elettorali di Matteo #Renzi #Pd su canone Rai,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Fiscalit\xe0', u'POLITICHE']",,,"{""Nome"": ""Matteo Renzi"", ""Nome fonte"": ""La Repubblica"", ""data"": ""03/02/2018"", ""dichiarazione"": ""Abbiamo abbassato il costo del Canone Rai da 113 euro a 90 euro attraverso l'inserimento del canone in bolletta e la lotta all'evasione. Vogliamo scendere ulteriormente garantendo la qualit\u00e0 del servizio pubblico ma azzerando il canone alle categorie meno abbienti."", ""id"": ""24831627"", ""unapromessaID"": ""UQ47563"", ""urlfonte"": ""http://www.repubblica.it/politica/2018/02/02/news/pd_programma_elettorale_matteo_renzi-187887650/""}","<pre><yamldata>Nome: 'Matteo Renzi'
+data: 03/02/2018
+Nome fonte: 'La Repubblica'
+urlfonte: 'http://www.repubblica.it/politica/2018/02/02/news/pd_programma_elettorale_matteo_renzi-187887650/'
+dichiarazione: 'Abbiamo abbassato il costo del Canone Rai da 113 euro a 90 euro attraverso l''inserimento del canone in bolletta e la lotta all''evasione. Vogliamo scendere ulteriormente garantendo la qualità del servizio pubblico ma azzerando il canone alle categorie meno abbienti.'
+id: '24831627'
+unapromessaID: 'UQ47563'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/142,294098708,2018-02-03 22:54:26,2018-02-03 09:45:08,Le promesse elettorali di Matteo #Renzi #Pd sullo ius soli,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Immigrazione', u'POLITICHE']",,,"{""Nome"": ""Matteo Renzi"", ""Nome fonte"": ""La Repubblica"", ""data"": ""03/02/2018"", ""dichiarazione"": ""Nel programma del Pd presentato ieri da Matteo Renzi si legge che tra \""le battaglie da portare avanti nella prossima legislatura\"" c'\u00e8 \""prima di tutto, lo Ius soli: l'approvazione di una legge che preveda l'ottenimento della cittadinanza per i bambini nati in Italia da genitori stranieri in possesso del permesso di soggiorno e per i minorenni entrati nel nostro Paese entro il dodicesimo anno di et\u00e0, purch\u00e9 abbiano frequentato regolarmente per almeno cinque anni uno o pi\u00f9 cicli di studio o seguito percorsi di istruzione e formazione professionale\""."", ""id"": ""24831626"", ""unapromessaID"": ""UQ47563"", ""urlfonte"": ""http://www.repubblica.it/politica/2018/02/02/news/pd_programma_elettorale_matteo_renzi-187887650/""}","<pre><yamldata>Nome: 'Matteo Renzi'
 data: 03/02/2018
 Nome fonte: 'La Repubblica'
