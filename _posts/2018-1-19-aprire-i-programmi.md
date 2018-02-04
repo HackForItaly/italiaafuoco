@@ -2,8 +2,6 @@
 layout: post
 title: Scrivere un programma elettorale in formato aperto
 categories: blog
-subtitle: Un suggerimento alle forze politiche per rendere i programmi facilmente divulgabili
-date: 19 Gennaio 2018
 ---
 
 Scrivere documentazione in formato [markdown](https://it.wikipedia.org/wiki/Markdown) non solo consente di pubblicarla online in modo semplice ma anche che questa venga facilmente diffusa e riusata. Questo formato altro non è che un modo di scrivere un testo adottando opportune convenzioni perchè possa essere formattato online. Anche i post di questo blog sono scritti in formato markdown e potete vederli nella loro forma "grezza" [qui](https://raw.githubusercontent.com/HackForItaly/politicamentecorretto/master/_posts/2018-1-01-Siamo-online.md).

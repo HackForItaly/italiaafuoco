@@ -2,8 +2,6 @@
 layout: post
 title: Dove sono i programmi delle elezioni nazionali 2018?
 categories: blog
-subtitle: FuorIProgrammi
-date: 10 Gennaio 2018
 ---
 
 ![](/images/fuoriprogrammi.png)
