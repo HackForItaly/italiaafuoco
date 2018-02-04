@@ -1,4 +1,28 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/155,294208372,2018-02-04 16:13:03,2018-02-04 16:10:05,Le promesse elettorali di #ClaudiaPratelli #LeU su abolizione legge 107 e lotta alla dispersione scolastica,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Scuola/Universit\xe0']",,,"{""Nome"": ""Claudia Pratelli"", ""Nome fonte"": ""radiopopolare.it"", ""data"": ""04/02/2018"", ""dichiarazione"": ""\""dal minuto 23.50: abolire legge 107, no alla \""\""buona scuola\""\"" perch\u00e8 ha fatto male alla scuola (impostazione autoritaria e gerarchica, troppi poteri al dirigente scolastico. Lotta alla dispersione scolastica (15% in Italia equivalente a 15 miliardi di spreco di spesa pubblica) attraverso aumento insegnati, ripristino tempo pieno e compresenze.\"""", ""id"": ""24854926"", ""unapromessaID"": """", ""urlfonte"": ""http://pod.radiopopolare.it/lavagna_31_01_2018_1.mp3""}","<pre><yamldata>Nome: 'Claudia Pratelli'
+data: 04/02/2018
+Nome fonte: 'radiopopolare.it'
+urlfonte: 'http://pod.radiopopolare.it/lavagna_31_01_2018_1.mp3'
+dichiarazione: '""dal minuto 23.50: abolire legge 107, no alla """"buona scuola"""" perchè ha fatto male alla scuola (impostazione autoritaria e gerarchica, troppi poteri al dirigente scolastico. Lotta alla dispersione scolastica (15% in Italia equivalente a 15 miliardi di spreco di spesa pubblica) attraverso aumento insegnati, ripristino tempo pieno e compresenze.""'
+id: '24854926'
+unapromessaID: ''
+</yamldata></pre>",open
+https://github.com/HackForItaly/politicamentecorretto_data/issues/154,294208022,2018-02-04 16:11:43,2018-02-04 16:05:05,Le promesse elettorali di Marina Boscaino,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Scuola/Universit\xe0']",,,"{""Nome"": ""Marina Boscaino"", ""Nome fonte"": ""radiopopolare.it"", ""data"": ""04/02/2018"", ""dichiarazione"": ""al minuto 8: abolizione contributi per scuole paritarie, aumento stipendio insegnanti"", ""id"": ""24854862"", ""unapromessaID"": """", ""urlfonte"": ""http://pod.radiopopolare.it/lavagna_31_01_2018_1.mp3""}","<pre><yamldata>Nome: 'Marina Boscaino'
+data: 04/02/2018
+Nome fonte: 'radiopopolare.it'
+urlfonte: 'http://pod.radiopopolare.it/lavagna_31_01_2018_1.mp3'
+dichiarazione: 'al minuto 8: abolizione contributi per scuole paritarie, aumento stipendio insegnanti'
+id: '24854862'
+unapromessaID: ''
+</yamldata></pre>",open
+https://github.com/HackForItaly/politicamentecorretto_data/issues/153,294207290,2018-02-04 16:10:19,2018-02-04 15:55:05,Le promesse elettorali di Emma #Bonino #piueuropa sulla legalizzazione della cannabis,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Varie']",,,"{""Nome"": ""Emma Bonino"", ""Nome fonte"": ""https://twitter.com/emmabonino"", ""data"": ""04/02/2018"", ""dichiarazione"": ""Legalizzare la cannabis non significa incentivane il consumo, ma sostituire un mercato criminale con uno controllato, di modo che i soldi non vadano alle narcomafie ma al bilancio dello Stato."", ""id"": ""24854707"", ""unapromessaID"": """", ""urlfonte"": ""https://twitter.com/emmabonino/status/959762370108317696?s=09""}","<pre><yamldata>Nome: 'Emma Bonino'
+data: 04/02/2018
+Nome fonte: 'https://twitter.com/emmabonino'
+urlfonte: 'https://twitter.com/emmabonino/status/959762370108317696?s=09'
+dichiarazione: 'Legalizzare la cannabis non significa incentivane il consumo, ma sostituire un mercato criminale con uno controllato, di modo che i soldi non vadano alle narcomafie ma al bilancio dello Stato.'
+id: '24854707'
+unapromessaID: ''
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/152,294099988,2018-02-03 23:19:28,2018-02-03 10:10:05,Le promesse elettorali di Matteo #Renzi #Pd su mobilità sostenibile,,,"[u'ACCETTATO', u'ANNO_2018', u'Ambiente e territorio', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Matteo Renzi"", ""Nome fonte"": ""Rai news"", ""data"": ""03/02/2018"", ""dichiarazione"": ""Nel programma Pd presentato ieri da Renzi previste anche misure green. Nella pubblica amministrazione punta a cambiare le auto blu in auto verdi, tutte elettriche. Tra i 100 punti anche l'aumento delle piste ciclabili e la realizzazione di 4 ciclovie nazionali."", ""id"": ""24832183"", ""unapromessaID"": ""UQ47563"", ""urlfonte"": ""http://www.rainews.it/dl/rainews/articoli/Da-Pil-oltre-2-per-cento-a-240-euro-a-famiglie-con-figli-il-programma-Pd-4a2458e3-a582-486a-a621-7a3c401bfc74.html?refresh_ce""}","<pre><yamldata>Nome: 'Matteo Renzi'
 data: 03/02/2018
 Nome fonte: 'Rai news'
