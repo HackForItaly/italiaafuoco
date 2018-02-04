@@ -6349,7 +6349,7 @@
     "unapromessaID": "U707",
     "twitter": "MarinaBoscaino",
     "nome": "Marina Boscaino",
-    "wikipediaIT": "https://www.ilfattoquotidiano.it/blog/mboscaino/",
+    "wikipediaIT": null,
     "immagine": "https://st.ilfattoquotidiano.it/wp-content/img/autori/MBoscaino.jpg",
     "idItalia": null
   },
@@ -6360,6 +6360,15 @@
     "nome": "Claudia Pratelli",
     "wikipediaIT": null,
     "immagine": "https://sinistraitalianaabruzzo.it/wp-content/uploads/2017/12/claudia-pratelli-250x250.jpg",
+    "idItalia": null
+  },
+  {
+    "wikidata": null,
+    "unapromessaID": "U709",
+    "twitter": null,
+    "nome": "Benedetto Della Vedova",
+    "wikipediaIT": "https://it.wikipedia.org/wiki/Benedetto_Della_Vedova",
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Benedetto_Della_Vedova_-_VeDr%C3%B2_nuove_imprese_2011.jpg/260px-Benedetto_Della_Vedova_-_VeDr%C3%B2_nuove_imprese_2011.jpg",
     "idItalia": null
   }
 ]
