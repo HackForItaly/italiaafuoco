@@ -1,4 +1,14 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/164,294754964,2018-02-06 14:13:12,2018-02-06 13:15:06,Le promesse elettorali di Matteo #Renzi #Pd sul dopo voto: se non ci sono i numeri si torni a votare,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Varie']",,,"{""Nome"": ""Matteo Renzi"", ""Nome fonte"": ""Rai News"", ""correlate"": [160], ""data"": ""06/02/2018"", ""dichiarazione"": ""\""La penso esattamente come Berlusconi, se non ci sono i numeri si torni a votare. Il Pd con gli estremisti non governer\u00e0 mai\"". Lo ha detto il segretario del Pd, Matteo Renzi, a Agor\u00e0, su Rai 3."", ""id"": ""24919235"", ""unapromessaID"": ""UQ47563"", ""urlfonte"": ""http://www.rainews.it/dl/rainews/articoli/Renzi-senza-numeri-si-rivota.E-al-Cav-cambiamo-accordo-Dublino-88e6bff2-754f-4f98-aaa0-9d531f754e41.html""}","<pre><yamldata>Nome: 'Matteo Renzi'
+data: 06/02/2018
+Nome fonte: 'Rai News'
+urlfonte: 'http://www.rainews.it/dl/rainews/articoli/Renzi-senza-numeri-si-rivota.E-al-Cav-cambiamo-accordo-Dublino-88e6bff2-754f-4f98-aaa0-9d531f754e41.html'
+dichiarazione: '""La penso esattamente come Berlusconi, se non ci sono i numeri si torni a votare. Il Pd con gli estremisti non governerà mai"". Lo ha detto il segretario del Pd, Matteo Renzi, a Agorà, su Rai 3.'
+id: '24919235'
+unapromessaID: 'UQ47563'
+correlate:
+- 160
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/163,294750579,2018-02-06 14:08:13,2018-02-06 13:00:07,"Le promesse elettorali di Luigi #DiMaio #M5s su Libia, Yemen e Afghanistan",,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Politica Internazionale']",,,"{""Nome"": ""Luigi Di Maio"", ""Nome fonte"": ""Rai News"", ""data"": ""06/02/2018"", ""dichiarazione"": ""\""Ci faremo promotori di una conferenza\u00a0di\u00a0pace sulla Libia a Roma - annuncia il candidato premier - che metta intorno al tavolo tutti\u00a0gli attori e veda protagonista l'Italia\"". Sullo Yemen: bloccare fornitura armi italiane. Via il contingente italiano dall'Afghanistan."", ""id"": ""24918815"", ""unapromessaID"": ""Q13581225"", ""urlfonte"": ""http://www.rainews.it/dl/rainews/articoli/di-maio-a-ue-italia-non-puo-essere-campo-profughi-paesi-est-accettino-ricollocamenti-0101c1e7-219f-401c-b671-51510357e103.html""}","<pre><yamldata>Nome: 'Luigi Di Maio'
 data: 06/02/2018
 Nome fonte: 'Rai News'
@@ -15,13 +25,15 @@ dichiarazione: 'Con l’Ambiente al centro delle politiche regionali possiamo ga
 id: '24912366'
 unapromessaID: 'U710'
 </yamldata></pre>",open
-https://github.com/HackForItaly/politicamentecorretto_data/issues/160,294402308,2018-02-05 15:26:40,2018-02-05 14:00:05,"Le promesse elettorali di Silvio #Berlusconi #ForzaItalia su dopo voto: nessuna coalizione con Pd, se necessario ritorno alle urne",,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Varie']",,,"{""Nome"": ""Silvio Berlusconi"", ""Nome fonte"": ""Ansa"", ""data"": ""05/02/2018"", ""dichiarazione"": ""Io non sono d'accordo con la parola inciucio in Germania c'\u00e8 una coalizione fatta alla luce del sole che va distinto da un accordo segreto. Non ci sar\u00e0 nessuna possibilit\u00e0 di andare a fare una coalizione con questo Pd, se non ci sar\u00e0 sarebbe necessario ritornare alle urne."", ""id"": ""24877690"", ""unapromessaID"": ""UQ11860"", ""urlfonte"": ""http://www.ansa.it/sito/notizie/topnews/2018/02/05/cav-senza-maggioranza-tornare-al-voto_4d2d46ce-e164-432e-9451-cfb3963943d2.html""}","<pre><yamldata>Nome: 'Silvio Berlusconi'
+https://github.com/HackForItaly/politicamentecorretto_data/issues/160,294402308,2018-02-06 14:12:10,2018-02-05 14:00:05,"Le promesse elettorali di Silvio #Berlusconi #ForzaItalia su dopo voto: nessuna coalizione con Pd, se necessario ritorno alle urne",,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Varie']",,,"{""Nome"": ""Silvio Berlusconi"", ""Nome fonte"": ""Ansa"", ""correlate"": [164], ""data"": ""05/02/2018"", ""dichiarazione"": ""Io non sono d'accordo con la parola inciucio in Germania c'\u00e8 una coalizione fatta alla luce del sole che va distinto da un accordo segreto. Non ci sar\u00e0 nessuna possibilit\u00e0 di andare a fare una coalizione con questo Pd, se non ci sar\u00e0 sarebbe necessario ritornare alle urne."", ""id"": ""24877690"", ""unapromessaID"": ""UQ11860"", ""urlfonte"": ""http://www.ansa.it/sito/notizie/topnews/2018/02/05/cav-senza-maggioranza-tornare-al-voto_4d2d46ce-e164-432e-9451-cfb3963943d2.html""}","<pre><yamldata>Nome: 'Silvio Berlusconi'
 data: 05/02/2018
 Nome fonte: 'Ansa'
 urlfonte: 'http://www.ansa.it/sito/notizie/topnews/2018/02/05/cav-senza-maggioranza-tornare-al-voto_4d2d46ce-e164-432e-9451-cfb3963943d2.html'
 dichiarazione: 'Io non sono d''accordo con la parola inciucio in Germania c''è una coalizione fatta alla luce del sole che va distinto da un accordo segreto. Non ci sarà nessuna possibilità di andare a fare una coalizione con questo Pd, se non ci sarà sarebbe necessario ritornare alle urne.'
 id: '24877690'
 unapromessaID: 'UQ11860'
+correlate:
+- 164
 </yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/159,294399065,2018-02-06 13:44:25,2018-02-05 13:50:05,Le promesse elettorali di Silvio #Berlusconi #ForzaItalia su immigrazione irregolare: soldati nelle strade e denunce dei cittadini per  individuare clandestini,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Immigrazione', u'POLITICHE']",,,"{""Nome"": ""Silvio Berlusconi"", ""Nome fonte"": ""Ansa"", ""data"": ""05/02/2018"", ""dichiarazione"": ""Ritorneremo al poliziotto di quartiere, istituto che la sinistra ha fatto cadere. E poi dobbiamo tornare con i militari nelle citt\u00e0 insieme alle forze dell'ordine per individuare i 600 mila clandestini che potranno essere segnalati anche dai cittadini che poi con navi e aerei riporteremo nei paesi di origine."", ""id"": ""24877536"", ""unapromessaID"": ""UQ11860"", ""urlfonte"": ""http://www.ansa.it/sito/notizie/topnews/2018/02/05/migranti-cav-anche-militari-in-citta_c509e7d2-21c9-42f7-a64a-8defb33d140a.html""}","<pre><yamldata>Nome: 'Silvio Berlusconi'
 data: 05/02/2018
