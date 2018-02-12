@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/172,296334973,2018-02-12 11:45:10,2018-02-12 11:00:06,"Le promesse elettorali di Giorgia #Meloni #FdI su Iva, Ministero del Turismo e rapporto Stato-Regioni",,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Varie']",,,"{""Nome"": ""Giorgia Meloni"", ""Nome fonte"": ""Profilo Twitter"", ""data"": ""12/02/2018"", ""dichiarazione"": ""Quando saremo al Governo: -Iva sul turismo dimezzata al 5% - Ministero sul turismo con portafoglio - Rivedremo le competenze tra lo Stato e le regioni."", ""id"": ""25106158"", ""unapromessaID"": ""UQ451791"", ""urlfonte"": ""https://twitter.com/GiorgiaMeloni/status/962746443697180674""}","<pre><yamldata>Nome: 'Giorgia Meloni'
+data: 12/02/2018
+Nome fonte: 'Profilo Twitter'
+urlfonte: 'https://twitter.com/GiorgiaMeloni/status/962746443697180674'
+dichiarazione: 'Quando saremo al Governo: -Iva sul turismo dimezzata al 5% - Ministero sul turismo con portafoglio - Rivedremo le competenze tra lo Stato e le regioni.'
+id: '25106158'
+unapromessaID: 'UQ451791'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/171,296333636,2018-02-12 11:23:49,2018-02-12 10:55:05,Le promesse elettorali di #EugenioComincini #Pd su mobilità sostenibile: un euro aggiuntivo per ogni euro speso per le reti ciclabili,,,"[u'ACCETTATO', u'ANNO_2018', u'Ambiente e territorio', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Eugenio Comincini"", ""Nome fonte"": ""Profilo Facebook"", ""data"": ""12/02/2018"", ""dichiarazione"": ""Un fondo che possa mettere a disposizione dei Sindaci e dei Comuni un euro aggiuntivo per ogni euro di risorse comunali impegnato sulle reti ciclabili. Se sar\u00f2 eletto in Senato mi impegner\u00f2 per realizzare questa azione, cos\u00ec da moltiplicare gli investimenti dei Comuni nel settore della ciclabilit\u00e0. Perch\u00e9 per incentivare la mobilit\u00e0 dolce, costruire piste ciclabili \u00e8 l'unica strada percorribile, la stessa che in 10 anni da Sindaco ho percorso nella mia Cernusco sul Naviglio, oggi riconosciuta come un\u2019eccellenza della mobilit\u00e0 alternativa e sicura"", ""id"": ""25105906"", ""unapromessaID"": ""U711"", ""urlfonte"": ""https://www.facebook.com/159003468086329/posts/159921324661210""}","<pre><yamldata>Nome: 'Eugenio Comincini'
 data: 12/02/2018
 Nome fonte: 'Profilo Facebook'
