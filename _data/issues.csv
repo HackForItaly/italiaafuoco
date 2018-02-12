@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/173,296342965,2018-02-12 11:51:35,2018-02-12 11:30:09,"Le promesse elettorali di #SimoneDiStefano #CasaPound su  euro, bilancio dello Stato e banca centrale",,,"[u'ACCETTATO', u'ANNO_2018', u'Economia', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Simone Di Stefano"", ""Nome fonte"": ""Blasting News"", ""data"": ""12/02/2018"", ""dichiarazione"": ""Il primo punto del nostro programma resta l'uscita dall'Euro ed il ritorno ad una moneta sovrana; la sovranit\u00e0 di bilancio cosicch\u00e9 lo stato possa fare investimenti in deficit produttivi; rimettere la nostra banca centrale sotto il controllo del ministero delle Finanze e farle stampare moneta che ci render\u00e0 liberi dalla schiavit\u00f9."", ""id"": ""25106940"", ""unapromessaID"": ""U712"", ""urlfonte"": ""http://it.blastingnews.com/politica/2018/02/di-stefano-casapound-per-salvare-litalia-bisogna-uscire-dalleuro-002346387.html""}","<pre><yamldata>Nome: 'Simone Di Stefano'
+data: 12/02/2018
+Nome fonte: 'Blasting News'
+urlfonte: 'http://it.blastingnews.com/politica/2018/02/di-stefano-casapound-per-salvare-litalia-bisogna-uscire-dalleuro-002346387.html'
+dichiarazione: 'Il primo punto del nostro programma resta l''uscita dall''Euro ed il ritorno ad una moneta sovrana; la sovranità di bilancio cosicché lo stato possa fare investimenti in deficit produttivi; rimettere la nostra banca centrale sotto il controllo del ministero delle Finanze e farle stampare moneta che ci renderà liberi dalla schiavitù.'
+id: '25106940'
+unapromessaID: 'U712'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/172,296334973,2018-02-12 11:45:10,2018-02-12 11:00:06,"Le promesse elettorali di Giorgia #Meloni #FdI su Iva, Ministero del Turismo e rapporto Stato-Regioni",,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'POLITICHE', u'Varie']",,,"{""Nome"": ""Giorgia Meloni"", ""Nome fonte"": ""Profilo Twitter"", ""data"": ""12/02/2018"", ""dichiarazione"": ""Quando saremo al Governo: -Iva sul turismo dimezzata al 5% - Ministero sul turismo con portafoglio - Rivedremo le competenze tra lo Stato e le regioni."", ""id"": ""25106158"", ""unapromessaID"": ""UQ451791"", ""urlfonte"": ""https://twitter.com/GiorgiaMeloni/status/962746443697180674""}","<pre><yamldata>Nome: 'Giorgia Meloni'
 data: 12/02/2018
 Nome fonte: 'Profilo Twitter'
