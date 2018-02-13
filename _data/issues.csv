@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/175,296663046,2018-02-13 10:19:24,2018-02-13 09:15:08,Le promesse elettorali di Maurizio #Lupi #NoiconItalia: togliere la prima casa dal calcolo Isee,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Fiscalit\xe0', u'POLITICHE', u'Welfare']",,,"{""Nome"": ""Maurizio Lupi"", ""Nome fonte"": ""Profilo Twitter"", ""data"": ""13/02/2018"", ""dichiarazione"": ""In queste settimane di #campagnaelettorale spero che prima o poi inizieremo a confrontarci sui #programmi. Noi, ad esempio, vogliamo togliere la #PrimaCasa dal calcolo #ISEE e fermare questa #ingiustizia sociale."", ""id"": ""25138971"", ""unapromessaID"": ""UQ3852636"", ""urlfonte"": ""https://twitter.com/Maurizio_Lupi/status/963111978813313025""}","<pre><yamldata>Nome: 'Maurizio Lupi'
+data: 13/02/2018
+Nome fonte: 'Profilo Twitter'
+urlfonte: 'https://twitter.com/Maurizio_Lupi/status/963111978813313025'
+dichiarazione: 'In queste settimane di #campagnaelettorale spero che prima o poi inizieremo a confrontarci sui #programmi. Noi, ad esempio, vogliamo togliere la #PrimaCasa dal calcolo #ISEE e fermare questa #ingiustizia sociale.'
+id: '25138971'
+unapromessaID: 'UQ3852636'
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/173,296342965,2018-02-12 11:51:35,2018-02-12 11:30:09,"Le promesse elettorali di #SimoneDiStefano #CasaPound su  euro, bilancio dello Stato e banca centrale",,,"[u'ACCETTATO', u'ANNO_2018', u'Economia', u'FORM', u'POLITICHE']",,,"{""Nome"": ""Simone Di Stefano"", ""Nome fonte"": ""Blasting News"", ""data"": ""12/02/2018"", ""dichiarazione"": ""Il primo punto del nostro programma resta l'uscita dall'Euro ed il ritorno ad una moneta sovrana; la sovranit\u00e0 di bilancio cosicch\u00e9 lo stato possa fare investimenti in deficit produttivi; rimettere la nostra banca centrale sotto il controllo del ministero delle Finanze e farle stampare moneta che ci render\u00e0 liberi dalla schiavit\u00f9."", ""id"": ""25106940"", ""unapromessaID"": ""U712"", ""urlfonte"": ""http://it.blastingnews.com/politica/2018/02/di-stefano-casapound-per-salvare-litalia-bisogna-uscire-dalleuro-002346387.html""}","<pre><yamldata>Nome: 'Simone Di Stefano'
 data: 12/02/2018
 Nome fonte: 'Blasting News'
