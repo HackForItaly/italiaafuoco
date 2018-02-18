@@ -2,14 +2,18 @@
   logo: /img/icone/segnala2-tci.png
   map: false
   link: segnala
-- name: "POLITICHE 2018"
+- name: "PROMESSE POLITICHE 2018"
   logo: /img/icone/politiche.png
   map: false
   link: politiche_2018
-- name: "REGIONALI 2018"
+- name: "PROMESSE REGIONALI 2018"
   logo: /img/icone/regionali.png
   map: false
   link: regionali_2018
+- name: "CERCA TRA LE PROMESSE"
+  logo: /img/icone/cerca.png
+  map: false
+  link: searchissues
 - name: "PROGRAMMI"
   logo: /img/icone/programmi.png
   map: false
