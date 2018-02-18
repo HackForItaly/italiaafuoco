@@ -11,7 +11,7 @@
   map: false
   link: regionali_2018
 - name: "CERCA TRA LE PROMESSE"
-  logo: /img/icone/cerca.png
+  logo: /img/icone/cerca1.png
   map: false
   link: searchissues
 - name: "PROGRAMMI"
