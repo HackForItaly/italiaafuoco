@@ -44,6 +44,7 @@ navbar-links:
 #    - Storie: "storie/"
   Utilità:
     - Programmi elettorali: "programmi/"
+    - Cerca nelle promesse: "searchissues/"
     - Cerca nei programmi: "programmi_search/"
     - Link utili: "link_utili/"
     - Opendata: "opendata/"
