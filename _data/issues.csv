@@ -1,4 +1,12 @@
 url,id,updated_at,created_at,title,lat,lon,labels,milestone,image,data,body,state
+https://github.com/HackForItaly/politicamentecorretto_data/issues/176,298414078,2018-02-19 22:23:47,2018-02-19 22:10:05,Le promesse elettorali di Silvio #Berlusconi #ForzaItalia su fiscalità: abrogazione Irap,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Fiscalit\xe0', u'POLITICHE']",,,"{""Nome"": ""Silvio Berlusconi"", ""Nome fonte"": ""Profilo Twitter"", ""data"": ""19/02/2018"", ""dichiarazione"": ""L'IRAP \u00e8 un'imposta rapina che verr\u00e0 abrogata immediatamente dal futuro governo del centrodestra."", ""id"": ""25367705"", ""unapromessaID"": """", ""urlfonte"": ""https://twitter.com/berlusconi/status/965684454042808321""}","<pre><yamldata>Nome: 'Silvio Berlusconi'
+data: 19/02/2018
+Nome fonte: 'Profilo Twitter'
+urlfonte: 'https://twitter.com/berlusconi/status/965684454042808321'
+dichiarazione: 'L''IRAP è un''imposta rapina che verrà abrogata immediatamente dal futuro governo del centrodestra.'
+id: '25367705'
+unapromessaID: ''
+</yamldata></pre>",open
 https://github.com/HackForItaly/politicamentecorretto_data/issues/175,296663046,2018-02-13 10:19:24,2018-02-13 09:15:08,Le promesse elettorali di Maurizio #Lupi #NoiconItalia: togliere la prima casa dal calcolo Isee,,,"[u'ACCETTATO', u'ANNO_2018', u'FORM', u'Fiscalit\xe0', u'POLITICHE', u'Welfare']",,,"{""Nome"": ""Maurizio Lupi"", ""Nome fonte"": ""Profilo Twitter"", ""data"": ""13/02/2018"", ""dichiarazione"": ""In queste settimane di #campagnaelettorale spero che prima o poi inizieremo a confrontarci sui #programmi. Noi, ad esempio, vogliamo togliere la #PrimaCasa dal calcolo #ISEE e fermare questa #ingiustizia sociale."", ""id"": ""25138971"", ""unapromessaID"": ""UQ3852636"", ""urlfonte"": ""https://twitter.com/Maurizio_Lupi/status/963111978813313025""}","<pre><yamldata>Nome: 'Maurizio Lupi'
 data: 13/02/2018
 Nome fonte: 'Profilo Twitter'
