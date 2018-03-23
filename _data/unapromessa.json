@@ -6291,6 +6291,15 @@
     "idItalia": null
   },
   {
+    "wikidata": "Q2307679",
+    "unapromessaID": "UQ2307679",
+    "twitter": "NenciniPsi",
+    "nome": "Riccardo Nencini",
+    "wikipediaIT": "https://it.wikipedia.org/wiki/Riccardo_Nencini",
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Riccardo_Nencini_2.jpg/200px-Riccardo_Nencini_2.jpg",
+    "idItalia": null
+  },
+  {
     "wikidata": "Q3616895",
     "unapromessaID": "UQ3616895",
     "twitter": "AngeloBonelli1",
@@ -6331,7 +6340,7 @@
     "unapromessaID": "UQ3119423",
     "twitter": "GuidoCrosetto",
     "nome": "Guido Crosetto",
-    "wikipediaIT": null,
+    "wikipediaIT": "https://it.wikipedia.org/wiki/Guido_Crosetto",
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Guido_Crosetto.jpg/200px-Guido_Crosetto.jpg",
     "idItalia": null
   },
