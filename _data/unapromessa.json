@@ -6246,6 +6246,15 @@
     "idItalia": null
   },
   {
+    "wikidata": "Q763148",
+    "unapromessaID": "UQ763148",
+    "twitter": "L_Cesa",
+    "nome": "Lorenzo Cesa",
+    "wikipediaIT": "https://it.wikipedia.org/wiki/Lorenzo_Cesa",
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lorenzo_Cesa.jpg/200px-Lorenzo_Cesa.jpg",
+    "idItalia": null
+  },
+  {
     "wikidata": "Q19394935",
     "unapromessaID": "UQ19394935",
     "twitter": "AlbertoBagnai",
@@ -6258,7 +6267,7 @@
     "wikidata": "Q12467437",
     "unapromessaID": "UQ12467437",
     "twitter": "CarloCalenda",
-    "nome": "Loading...",
+    "nome": "Carlo Calenda",
     "wikipediaIT": "https://it.wikipedia.org/wiki/Carlo_Calenda",
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Carlo_Calenda_%28cropped%29.jpg/200px-Carlo_Calenda_%28cropped%29.jpg",
     "idItalia": null
@@ -6277,7 +6286,7 @@
     "unapromessaID": "UQ3624592",
     "twitter": "Arturo_Scotto",
     "nome": "Arturo Scotto",
-    "wikipediaIT": "Loading...",
+    "wikipediaIT": "https://it.wikipedia.org/wiki/Arturo_Scotto",
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Arturo_Scotto_daticamera.jpg",
     "idItalia": null
   },
